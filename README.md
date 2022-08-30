@@ -1,1 +1,1 @@
-# Hello, Sekai!
+# Hello, Sekai! 🚀
