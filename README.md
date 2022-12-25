@@ -4,4 +4,4 @@
 
 🚀 Developing 'Otaku' in Korea </br>
 ✅ Student, in Dankook University </br>
-💕 Passionate in improving UX </br>
+💕 Passionate about improving UX </br>
