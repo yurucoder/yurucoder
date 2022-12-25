@@ -2,6 +2,6 @@
 
 ### About Me
 
-🚀 Developing 'Otaku' in Korea
-✅ Student, in Dankook University
-💕 Passionate about improve UX.
+🚀 Developing 'Otaku' in Korea <br/>
+✅ Student, in Dankook University <br/>
+💕 Passionate about improve UX <br/>
