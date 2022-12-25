@@ -1,4 +1,4 @@
-## Hello, Sekai /ᐠ-ⱉ-ᐟ\ﾉ
+## Hello, Sekai ___ /ᐠ-ⱉ-ᐟ\ﾉ
 
 ### About Me
 
