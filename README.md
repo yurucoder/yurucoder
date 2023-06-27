@@ -17,6 +17,7 @@
 5. [klay-market](https://github.com/hojunkim1/klay-market) : React meets blockchain platform
 6. [corona-dashboard](https://github.com/hojunkim1/corona-dashboard) : Data visualization with python
 7. [go-scrapper](https://github.com/hojunkim1/go-scrapper) : Superpower of concurrency
+8. [make-framework[(https://github.com/hojunkim1/make-framework) : 
 
 ### Basics
 
@@ -40,9 +41,10 @@
 3. [momentum](https://github.com/hojunkim1/momentum) : Vanilla Javascript
 4. [painting-board](https://github.com/hojunkim1/painting-board) : Canvas api
 5. [react-movie](https://github.com/hojunkim1/react-movie) : React
-6. [py-scrapper](https://github.com/hojunkim1/py-scrapper) : Web scrapper in Python
-7. [work-hard-app](https://github.com/hojunkim1/work-hard-app) : React native 1
-8. [weather-app](https://github.com/hojunkim1/weather-app) : React native 2
+6. [next-movie](https://github.com/hojunkim1/next-movie) : NextJS
+7. [py-scrapper](https://github.com/hojunkim1/py-scrapper) : Web scrapper in Python
+8. [work-hard-app](https://github.com/hojunkim1/work-hard-app) : React native 1
+9. [weather-app](https://github.com/hojunkim1/weather-app) : React native 2
 
 ### Homework
 
