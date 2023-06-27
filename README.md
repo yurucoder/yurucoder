@@ -47,5 +47,5 @@
 ### Homework
 
 1. [structured-c](https://github.com/hojunkim1/structured-c) : Object oriented pogramming
-2. [programming](https://github.com/hojunkim1/) : Java programming
+2. [programming](https://github.com/hojunkim1/programming) : Java programming
 3. [codeclub](https://github.com/hojunkim1/codeclub) : Sample for codeclub class
