@@ -17,7 +17,7 @@
 5. [klay-market](https://github.com/hojunkim1/klay-market) : React meets blockchain platform
 6. [corona-dashboard](https://github.com/hojunkim1/corona-dashboard) : Data visualization with python
 7. [go-scrapper](https://github.com/hojunkim1/go-scrapper) : Superpower of concurrency
-8. [make-framework[(https://github.com/hojunkim1/make-framework) : 
+8. [make-framework](https://github.com/hojunkim1/make-framework) : 
 
 ### Basics
 
