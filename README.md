@@ -4,7 +4,7 @@
 
 🚀 Developing Otaku in Korea </br>
 ✅ Student, in Dankook University </br>
-💕 Passionate about use software in other fields efficiently </br>
+💕 Passionate about make "lovely" program </br>
 
 ## Index
 
