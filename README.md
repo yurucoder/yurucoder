@@ -28,11 +28,12 @@
 5. [apollo-movie](https://github.com/hojunkim1/apollo-movie) : Use GraphQL in client side
 6. [vanilla-redux](https://github.com/hojunkim1/vanilla-redux) : Centeralized state manager
 7. [react-redux](https://github.com/hojunkim1/react-redux) : Best friends
-8. [type-chain](https://github.com/hojunkim1/type-chain) : The best IDE of JavaScript
-9. [nest-api](https://github.com/hojunkim1/nest-api) : Typescript holic - the 'JAVA' script
-10. [simple-spring](https://github.com/hojunkim1/simple-spring) : In spring, we love - without me.
-11. [solidity-basic](https://github.com/hojunkim1/solidity-basic) : Handle decentralized database
-12. [algorithm-book](https://github.com/hojunkim1/algorithm-book) : Boring algorithms
+8. [react-hooks](https://github.com/hojunkim1/react-hooks) : Functional concepts of ReactJS
+9. [type-chain](https://github.com/hojunkim1/type-chain) : The best IDE of JavaScript
+10. [nest-api](https://github.com/hojunkim1/nest-api) : Typescript holic - the 'JAVA' script
+11. [simple-spring](https://github.com/hojunkim1/simple-spring) : In spring, we love - without me.
+12. [solidity-basic](https://github.com/hojunkim1/solidity-basic) : Handle decentralized database
+13. [algorithm-book](https://github.com/hojunkim1/algorithm-book) : Boring algorithms
 
 ### Practice
 
@@ -51,3 +52,4 @@
 1. [structured-c](https://github.com/hojunkim1/structured-c) : Object oriented pogramming
 2. [programming](https://github.com/hojunkim1/programming) : Java programming
 3. [codeclub](https://github.com/hojunkim1/codeclub) : Sample for codeclub class
+4. [taba-solution](https://github.com/hojunkim1/taba-solution) : Solution of TABA online academy
