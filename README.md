@@ -46,6 +46,7 @@
 7. [py-scrapper](https://github.com/hojunkim1/py-scrapper) : Web scrapper in Python
 8. [work-hard-app](https://github.com/hojunkim1/work-hard-app) : React native 1
 9. [weather-app](https://github.com/hojunkim1/weather-app) : React native 2
+10. [fast-server](https://github.com/hojunkim1/fast-server) : FastAPI Practice
 
 ### Homework
 
