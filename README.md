@@ -37,8 +37,8 @@
 
 ### Practice
 
-1. [boj-solution](https://github.com/hojunkim1/boj-solution) : Solution of BOJ in Python
-2. [algorithm-test](https://github.com/hojunkim1/algorithm-test) : Solution of BOJ in Java
+1. [boj-python](https://github.com/hojunkim1/boj-python) : Solution of BOJ in Python
+2. [boj-java](https://github.com/hojunkim1/boj-java) : Solution of BOJ in Java
 3. [momentum](https://github.com/hojunkim1/momentum) : Vanilla Javascript
 4. [painting-board](https://github.com/hojunkim1/painting-board) : Canvas api
 5. [react-movie](https://github.com/hojunkim1/react-movie) : React
