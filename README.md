@@ -4,7 +4,7 @@
 
 🚀 Developing Otaku in Korea </br>
 ✅ Student, in Dankook University </br>
-💕 Passionate about make kawaii program </br>
+💕 Passionate about learn new tools </br>
 
 ## Index
 
