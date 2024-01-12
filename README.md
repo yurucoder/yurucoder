@@ -11,9 +11,9 @@
 ### Projects
 
 1. [kokoa-talk](https://github.com/hojunkim1/kokoa-talk) : My first coding project!
-2. [meme-maker](https://github.com/hojunkim1/meme-maker) : 
+2. [meme-maker](https://github.com/hojunkim1/meme-maker) :
 3. [wetube](https://github.com/hojunkim1/wetube) : First step on a fullstack journey
-4. [noom](https://github.com/hojunkim1/noom) : 
+4. [noom](https://github.com/hojunkim1/noom) :
 5. [klay-market](https://github.com/hojunkim1/klay-market) : React meets blockchain platform
 6. [corona-dashboard](https://github.com/hojunkim1/corona-dashboard) : Data visualization with python
 7. [go-scrapper](https://github.com/hojunkim1/go-scrapper) : Superpower of concurrency
@@ -48,7 +48,6 @@
 7. [py-scrapper](https://github.com/hojunkim1/py-scrapper) : Web scrapper in Python
 8. [work-hard-app](https://github.com/hojunkim1/work-hard-app) : React native 1
 9. [weather-app](https://github.com/hojunkim1/weather-app) : React native 2
-10. [fast-server](https://github.com/hojunkim1/fast-server) : FastAPI Practice
 
 ### Homework
 
