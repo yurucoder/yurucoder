@@ -19,6 +19,7 @@
 7. [go-scrapper](https://github.com/hojunkim1/go-scrapper) : Superpower of concurrency
 8. [make-framework](https://github.com/hojunkim1/make-framework) :
 9. [tastevin](https://github.com/hojunkim1/tastevin) : Tastevin - Search wine on your camera
+10. [fast-server](https://github.com/hojunkim1/fast-server) : Fast server - Tastevin server with FastAPI
 
 ### Basics
 
