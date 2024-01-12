@@ -23,19 +23,18 @@
 
 ### Basics
 
-1. [basic-c](https://github.com/hojunkim1/basic-c) : Basic stuff of C programming language
-2. [super-gulp](https://github.com/hojunkim1/super-gulp) : Gulpy sample to replace webpack
-3. [sassy-style](https://github.com/hojunkim1/sassy-style) : Sexy implements of cascade SS
-4. [graphql-api](https://github.com/hojunkim1/graphql-api) : Remarkable new server skill
-5. [apollo-movie](https://github.com/hojunkim1/apollo-movie) : Use GraphQL in client side
-6. [vanilla-redux](https://github.com/hojunkim1/vanilla-redux) : Centeralized state manager
-7. [react-redux](https://github.com/hojunkim1/react-redux) : Best friends
-8. [react-hooks](https://github.com/hojunkim1/react-hooks) : Functional concepts of ReactJS
-9. [type-chain](https://github.com/hojunkim1/type-chain) : The best IDE of JavaScript
-10. [nest-api](https://github.com/hojunkim1/nest-api) : Typescript holic - the 'JAVA' script
-11. [simple-spring](https://github.com/hojunkim1/simple-spring) : In spring, we love - without me.
-12. [solidity-basic](https://github.com/hojunkim1/solidity-basic) : Handle decentralized database
-13. [algorithm-book](https://github.com/hojunkim1/algorithm-book) : Boring algorithms
+1. [super-gulp](https://github.com/hojunkim1/super-gulp) : Gulpy sample to replace webpack
+2. [sassy-style](https://github.com/hojunkim1/sassy-style) : Sexy implements of cascade SS
+3. [graphql-api](https://github.com/hojunkim1/graphql-api) : Remarkable new server skill
+4. [apollo-movie](https://github.com/hojunkim1/apollo-movie) : Use GraphQL in client side
+5. [vanilla-redux](https://github.com/hojunkim1/vanilla-redux) : Centeralized state manager
+6. [react-redux](https://github.com/hojunkim1/react-redux) : Best friends
+7. [react-hooks](https://github.com/hojunkim1/react-hooks) : Functional concepts of ReactJS
+8. [type-chain](https://github.com/hojunkim1/type-chain) : The best IDE of JavaScript
+9. [nest-api](https://github.com/hojunkim1/nest-api) : Typescript holic - the 'JAVA' script
+10. [simple-spring](https://github.com/hojunkim1/simple-spring) : In spring, we love - without me.
+11. [solidity-basic](https://github.com/hojunkim1/solidity-basic) : Handle decentralized database
+12. [algorithm-book](https://github.com/hojunkim1/algorithm-book) : Boring algorithms
 
 ### Practice
 
