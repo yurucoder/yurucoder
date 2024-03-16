@@ -9,4 +9,3 @@
 ## See More
 
 - [Index](https://github.com/hojunkim1/hojunkim1/blob/master/INDEX.md) of my github repos
-- [Study](https://github.com/hojunkim1/hojunkim1/blob/master/STACK.md) list for developer
