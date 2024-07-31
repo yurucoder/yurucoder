@@ -2,7 +2,7 @@
 
 ## Web Skill
 
-Well, I learned these skills from the [Wetube](https://github.com/tosaengx2/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube). <br>
+Well, I learned these skills from the [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube). <br>
 Thanks to [Nico](https://github.com/serranoarevalo)!
 
 - Frontend : JS/Sass
