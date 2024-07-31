@@ -12,7 +12,7 @@ Thanks to [Nico](https://github.com/serranoarevalo)!
 ## Graphic Skill
 
 I love games, especially JRPGs and Visual Novels. <br>
-So I thought of some useful tool to make a game!
+So I thought of some useful tools to make a game!
 
 - Flutter : The simplest way to use Skia
 - Unreal Engine : The best graphics engine!
