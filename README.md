@@ -9,7 +9,7 @@
 ## See More
 
 - [Index](https://github.com/hojunkim1/hojunkim1/blob/master/index.md) of my github repos
-- Code skill [GOAL](https://github.com/hojunkim1/hojunkim1/blob/master/GOAL.md)
+- Code skill [GOAL](https://github.com/hojunkim1/hojunkim1/blob/master/goal.md)
 
 ## Connect with me
 
