@@ -13,4 +13,4 @@
 
 ## Connect with me
 
-[X.com](https://x.com/tosaengx2)
+- [X.com](https://x.com/tosaengx2)
