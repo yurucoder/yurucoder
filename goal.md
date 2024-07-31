@@ -5,7 +5,7 @@
 Well, I learned these skills from the [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube). <br>
 Thanks to [Nico](https://github.com/serranoarevalo)!
 
-- Frontend : JS/Sass
+- Frontend : JS/Pug/Sass
 - Backend : Node/Express
 - Database : MongoDB
 
@@ -20,7 +20,7 @@ So I thought of some useful tools to make a game!
 ## Low Level Skill
 
 - System Software
-- Embeded Systems
+- Embeded Systems (Not Yet)
 
 ## Operation Skill
 
