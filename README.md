@@ -8,9 +8,9 @@
 
 ## See More
 
-- [Index](https://github.com/tosaengx2/tosaengx2/blob/master/index.md) of my github repos
-- Code skill [GOAL](https://github.com/tosaengx2/tosaengx2/blob/master/goal.md)
+- [Index](https://github.com/YuruCoder/YuruCoder/blob/master/index.md) of my github repos
+- Code skill [GOAL](https://github.com/YuruCoder/YuruCoder/blob/master/goal.md)
 
 ## Connect with me
 
-- [X.com](https://x.com/tosaengx2)
+- [X.com](https://x.com/YuruCoder)
