@@ -8,8 +8,8 @@
 
 ## See More
 
-- [Index](https://github.com/hojunkim1/hojunkim1/blob/master/index.md) of my github repos
-- Code skill [GOAL](https://github.com/hojunkim1/hojunkim1/blob/master/goal.md)
+- [Index](https://github.com/tosaengx2/tosaengx2/blob/master/index.md) of my github repos
+- Code skill [GOAL](https://github.com/tosaengx2/tosaengx2/blob/master/goal.md)
 
 ## Connect with me
 
