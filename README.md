@@ -9,3 +9,4 @@
 ## See More
 
 - [Index](https://github.com/hojunkim1/hojunkim1/blob/master/INDEX.md) of my github repos
+- Code skill [GOAL](https://github.com/hojunkim1/hojunkim1/blob/master/GOAL.md)
