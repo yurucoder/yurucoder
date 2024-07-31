@@ -3,11 +3,13 @@
 ## Projects
 
 1. [kokoa-talk](https://github.com/hojunkim1/kokoa-talk) : My first coding project!
-2. [wetube](https://github.com/hojunkim1/wetube) : First step on a fullstack journey
-3. [corona-dashboard](https://github.com/hojunkim1/corona-dashboard) : Data visualization with python
-4. [go-scrapper](https://github.com/hojunkim1/go-scrapper) : Superpower of concurrency
-5. [tastevin](https://github.com/hojunkim1/tastevin) : Tastevin - Search wine on your camera
-6. [fast-server](https://github.com/hojunkim1/fast-server) : Fast server - Tastevin server with FastAPI
+2. [momentum](https://github.com/hojunkim1/momentum) : Vanilla Javascript
+3. [wetube](https://github.com/hojunkim1/wetube) : First step on a fullstack journey
+4. [py-scrapper](https://github.com/hojunkim1/py-scrapper) : Web scrapper in Python
+5. [corona-dashboard](https://github.com/hojunkim1/corona-dashboard) : Data visualization with python
+6. [go-scrapper](https://github.com/hojunkim1/go-scrapper) : Superpower of concurrency
+7. [tastevin](https://github.com/hojunkim1/tastevin) : Search wine on your camera
+8. [fast-server](https://github.com/hojunkim1/fast-server) : Tastevin server with FastAPI
 
 ## Basics
 
@@ -17,15 +19,6 @@
 4. [vanilla-redux](https://github.com/hojunkim1/vanilla-redux) : Centeralized state manager
 5. [react-redux](https://github.com/hojunkim1/react-redux) : Best friends
 6. [simple-spring](https://github.com/hojunkim1/simple-spring) : In spring, we love - without me.
-
-## Practice
-
-1. [momentum](https://github.com/hojunkim1/momentum) : Vanilla Javascript
-2. [react-movie](https://github.com/hojunkim1/react-movie) : React
-3. [next-movie](https://github.com/hojunkim1/next-movie) : NextJS
-4. [py-scrapper](https://github.com/hojunkim1/py-scrapper) : Web scrapper in Python
-5. [work-hard-app](https://github.com/hojunkim1/work-hard-app) : React native 1
-6. [weather-app](https://github.com/hojunkim1/weather-app) : React native 2
 
 ## Homework
 
