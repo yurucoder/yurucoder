@@ -2,32 +2,32 @@
 
 ## Web Service
 
-Well, I learned these skills from the [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube). <br>
-Thanks to [Nico](https://github.com/serranoarevalo)!
+I've learned these skills from the [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube).  
+Special thanks to [Nico](https://github.com/serranoarevalo)!
 
-- Frontend : JS/Pug/Sass
-- Backend : Node/Express
-- Database : MongoDB
+- **Frontend**: JavaScript, Pug, Sass
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
 
 ## Graphics Editor
 
-I love games, especially JRPGs and Visual Novels. <br>
+I love games, especially JRPGs and Visual Novels.  
 So I thought of some useful tools to make a game!
 
-- Flutter : The simplest way to use Skia
-- Unreal Engine : The best graphics engine!
+- **Flutter**: The simplest way to use Skia
+- **Unreal Engine**: The best graphics engine!
 
-## Low-Level System
+## Low-Level Systems
 
-- System Software
-- Embeded Systems (Not Yet)
+- **System Software**
+- **Embedded Systems** (Coming Soon)
 
-## Develop Architecture
+## Development Architecture
 
-- DevOps (Not Yet)
-- Cloud Computing (Not Yet)
+- **DevOps** (Coming Soon)
+- **Cloud Computing** (Coming Soon)
 
 ## Computer Science
 
-- Data Science (Not Yet)
-- Security (Not Yet)
+- **Data Science** (Coming Soon)
+- **Security** (Coming Soon)
