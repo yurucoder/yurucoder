@@ -1,12 +1,13 @@
-# Hello, Sekai &nbsp; /ᐠ-ⱉ-ᐟ\ﾉ
+# Hello, Sekai! &nbsp; /ᐠ-ⱉ-ᐟ\ﾉ
 
 ## About Me
 
-🚀 Developing Otaku in Korea </br>
-✅ Student, in Dankook University </br>
-💕 Passionate about learn new tools </br>
+🚀 Aspiring Developer & Proud Otaku from Korea </br>
+✅ Student at Dankook University </br>
+💕 Passionate about learning new tools and technologies </br>
+🎌 Enthusiast of Japanese pop culture and anime </br>
 
 ## See More
 
-- [Index](https://github.com/YuruCoder/YuruCoder/blob/master/index.md) of my github repos
-- Code skill [GOAL](https://github.com/YuruCoder/YuruCoder/blob/master/goal.md)
+- [Index](https://github.com/YuruCoder/YuruCoder/blob/master/index.md) of my GitHub repositories
+- My code skill [goals](https://github.com/YuruCoder/YuruCoder/blob/master/goal.md)
