@@ -1,4 +1,4 @@
-# Code Skill Goal
+# Code Skill Goals
 
 ## Web Service
 
