@@ -9,5 +9,5 @@
 
 ## See More
 
-- [Index](https://github.com/YuruCoder/YuruCoder/blob/master/index.md) of my GitHub repositories
-- My code skill [goals](https://github.com/YuruCoder/YuruCoder/blob/master/goal.md)
+- [Index](https://github.com/YuruCoder/YuruCoder/blob/master/project-index.md) of my GitHub repositories
+- My code skill [goals](https://github.com/YuruCoder/YuruCoder/blob/master/goals.md)
