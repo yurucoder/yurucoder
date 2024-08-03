@@ -2,7 +2,7 @@
 
 Welcome to my project index! Here you'll find a list of all my coding projects, basics, and homework assignments, each with a brief description and a link to the corresponding GitHub repository. Explore and see my coding journey and skills progression.
 
-## [GitHub Profile](https://github.com/YuruCoder/YuruCoder)
+- [GitHub Profile](https://github.com/YuruCoder/YuruCoder)
 
 ## Projects
 
@@ -32,6 +32,7 @@ Welcome to my project index! Here you'll find a list of all my coding projects, 
 - [vanilla-redux](https://github.com/YuruCoder/vanilla-redux): Centralized state management with Redux.
 - [react-redux](https://github.com/YuruCoder/react-redux): Integrating React with Redux.
 - [simple-spring](https://github.com/YuruCoder/simple-spring): Spring framework basics.
+- [toonflix](https://github.com/YuruCoder/toonflix):
 
 ## Homework
 
