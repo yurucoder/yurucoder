@@ -5,7 +5,6 @@
 🚀 Aspiring Developer & Proud Otaku from Korea </br>
 ✅ Student at Dankook University </br>
 💕 Passionate about learning new tools and technologies </br>
-🎌 Enthusiast of Japanese pop culture and anime </br>
 
 ## See More
 
