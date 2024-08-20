@@ -19,7 +19,7 @@ So I thought of some useful tools to make a game!
 
 ## Low-Level Systems
 
-- **System Software**
+- **System Software** (Now learning!!)
 - **Embedded Systems** (Coming Soon)
 
 ## Development Architecture
