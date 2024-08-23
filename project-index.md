@@ -12,13 +12,14 @@ Welcome to my project index! Here you'll find a list of all my coding projects, 
 - [momentum](https://github.com/YuruCoder/momentum): A productivity app built with vanilla JavaScript.
 - [wetube](https://github.com/YuruCoder/wetube): My first step on a fullstack journey.
 
-### Flutter Projects
+### Graphics Projects
 
 - [toonflix](https://github.com/YuruCoder/toonflix):
+- [ARProject](https://github.com/YuruCoder/ARProject):
 
 ### Low-Level Projects
 
-- [yuzuos](https://github.com/YuruCoder/yuzuos):
+- [yuruos](https://github.com/YuruCoder/yuruos):
 
 ### Data Projects
 
