@@ -4,7 +4,7 @@ Welcome to my project index! Here you'll find a list of all my coding projects, 
 
 - [GitHub Profile](https://github.com/YuruCoder/YuruCoder)
 
-## Projects
+## My Projects
 
 ### Web Projects
 
@@ -12,20 +12,26 @@ Welcome to my project index! Here you'll find a list of all my coding projects, 
 - [momentum](https://github.com/YuruCoder/momentum): A productivity app built with vanilla JavaScript.
 - [wetube](https://github.com/YuruCoder/wetube): My first step on a fullstack journey.
 
-### Android Projects
-
-- [ramen-lab](https://github.com/YuruCoder/ramen-lab): A prototype for a Ramen recipe lab.
-- [tastevin](https://github.com/YuruCoder/tastevin): A wine search app using your camera.
-- [fast-server](https://github.com/YuruCoder/fast-server): Server for Tastevin built with FastAPI.
-
-### Graphcs Projects
+### Flutter Projects
 
 - [toonflix](https://github.com/YuruCoder/toonflix):
+
+### Low-Level Projects
+
+- [yuzuos](https://github.com/YuruCoder/yuzuos):
 
 ### Data Projects
 
 - [py-scrapper](https://github.com/YuruCoder/py-scrapper): A web scraper written in Python.
 - [corona-dashboard](https://github.com/YuruCoder/corona-dashboard): Data visualization of COVID-19 statistics with Python.
+
+## Team Projects
+
+### Android Projects
+
+- [ramen-lab](https://github.com/YuruCoder/ramen-lab): A prototype for a Ramen recipe lab.
+- [tastevin](https://github.com/YuruCoder/tastevin): A wine search app using your camera.
+- [fast-server](https://github.com/YuruCoder/fast-server): Server for Tastevin built with FastAPI.
 
 ## Basics
 
