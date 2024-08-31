@@ -1,5 +1,7 @@
 # Hello, Sekai! &nbsp; /ᐠ-ⱉ-ᐟ\ﾉ
 
+<img src="https://pbs.twimg.com/media/FoDC5cgaEAEGLik?format=jpg&name=large" />
+
 ## About Me
 
 🚀 Aspiring Developer & Proud Otaku from Korea </br>
