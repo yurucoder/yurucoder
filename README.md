@@ -10,3 +10,5 @@
 
 - [Index](https://github.com/YuruCoder/YuruCoder/blob/master/project-index.md) of my GitHub repositories
 - My code skill [goals](https://github.com/YuruCoder/YuruCoder/blob/master/goals.md)
+
+<img src="https://pbs.twimg.com/media/GVycdaPbUAAxHyw?format=jpg&name=900x900" />
