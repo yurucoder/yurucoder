@@ -1,6 +1,6 @@
 # Hello, Sekai! &nbsp; /ᐠ-ⱉ-ᐟ\ﾉ
 
-<img src="https://pbs.twimg.com/media/FoDC5cgaEAEGLik?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GVyqpZFa8AQRsDP?format=jpg&name=large" width=400 />
 
 ## About Me
 
