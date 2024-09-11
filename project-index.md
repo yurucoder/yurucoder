@@ -28,11 +28,18 @@ Welcome to my project index! Here you'll find a list of all my coding projects, 
 
 ## Team Projects
 
-### Android Projects
+### Ramen Lab
 
 - [ramen-lab](https://github.com/YuruCoder/ramen-lab): A prototype for a Ramen recipe lab.
+
+### Tastevin
+
 - [tastevin](https://github.com/YuruCoder/tastevin): A wine search app using your camera.
 - [fast-server](https://github.com/YuruCoder/fast-server): Server for Tastevin built with FastAPI.
+
+### Premixer
+
+- [premixer](https://github.com/YuruCoder/premixer)
 
 ## Basics
 
