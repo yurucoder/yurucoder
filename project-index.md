@@ -14,12 +14,12 @@ Welcome to my project index! Here you'll find a list of all my coding projects, 
 
 ### Graphics Projects
 
-- [toonflix](https://github.com/YuruCoder/toonflix):
-- [ARProject](https://github.com/YuruCoder/ARProject):
+- [toonflix](https://github.com/YuruCoder/toonflix): Flutter Project Basic
+- [ARProject](https://github.com/YuruCoder/ARProject): Unreal Project Basic
 
 ### System Projects
 
-- [yuruos](https://github.com/YuruCoder/yuruos):
+- [yuruos](https://github.com/YuruCoder/yuruos): Mikan Operating System
 
 ### Data Projects
 
@@ -39,7 +39,7 @@ Welcome to my project index! Here you'll find a list of all my coding projects, 
 
 ### Premixer
 
-- [premixer](https://github.com/YuruCoder/premixer)
+- [premixer](https://github.com/YuruCoder/premixer): A managing app for premixer project.
 
 ## Basics
 
