@@ -17,7 +17,7 @@ Welcome to my project index! Here you'll find a list of all my coding projects, 
 - [toonflix](https://github.com/YuruCoder/toonflix):
 - [ARProject](https://github.com/YuruCoder/ARProject):
 
-### Low-Level Projects
+### System Projects
 
 - [yuruos](https://github.com/YuruCoder/yuruos):
 
