@@ -12,10 +12,9 @@ Welcome to my project index! Here you'll find a list of all my coding projects, 
 - [momentum](https://github.com/YuruCoder/momentum): A productivity app built with vanilla JavaScript.
 - [wetube](https://github.com/YuruCoder/wetube): My first step on a fullstack journey.
 
-### Graphics Projects
+### Game Projects
 
-- [toonflix](https://github.com/YuruCoder/toonflix): Flutter Project Basic
-- [ARProject](https://github.com/YuruCoder/ARProject): Unreal Project Basic
+- [ARProject](https://github.com/YuruCoder/ARProject)
 
 ### System Projects
 
@@ -23,7 +22,6 @@ Welcome to my project index! Here you'll find a list of all my coding projects, 
 
 ### Data Projects
 
-- [py-scrapper](https://github.com/YuruCoder/py-scrapper): A web scraper written in Python.
 - [corona-dashboard](https://github.com/YuruCoder/corona-dashboard): Data visualization of COVID-19 statistics with Python.
 
 ## Team Projects
@@ -53,8 +51,10 @@ Welcome to my project index! Here you'll find a list of all my coding projects, 
 ### Others
 
 - [super-gulp](https://github.com/YuruCoder/super-gulp): A Gulpy sample to replace Webpack.
-- [simple-spring](https://github.com/YuruCoder/simple-spring): Spring framework basics.
+- [py-scrapper](https://github.com/YuruCoder/py-scrapper): A web scraper written in Python.
 - [go-scrapper](https://github.com/YuruCoder/go-scrapper): A web scraper leveraging Go's concurrency.
+- [simple-spring](https://github.com/YuruCoder/simple-spring): Spring framework basics.
+- [toonflix](https://github.com/YuruCoder/toonflix): Flutter basics.
 
 ## Homework
 
