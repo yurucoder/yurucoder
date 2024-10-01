@@ -12,14 +12,6 @@ Welcome to my project index! Here you'll find a list of all my coding projects, 
 - [momentum](https://github.com/YuruCoder/momentum): A productivity app built with vanilla JavaScript.
 - [wetube](https://github.com/YuruCoder/wetube): My first step on a fullstack journey.
 
-### Game Projects
-
-- [ARProject](https://github.com/YuruCoder/ARProject)
-
-### System Projects
-
-- [yuruos](https://github.com/YuruCoder/yuruos): Mikan Operating System
-
 ### Data Projects
 
 - [corona-dashboard](https://github.com/YuruCoder/corona-dashboard): Data visualization of COVID-19 statistics with Python.
