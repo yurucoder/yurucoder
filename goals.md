@@ -14,14 +14,14 @@ Special thanks to [Nico](https://github.com/serranoarevalo)!
 I love games, especially JRPGs and Visual Novels.  
 So I thought of some useful tools to make a game!
 
-- **Unity**
+- **Unity**: Popular solution for otaku games.
 - **Unreal Engine**: The best graphics engine!
 
 ## Low-Level Systems
 
-- **System Software**: Learning now - MikanOS
-- **Embedded Systems**: Learning now - Arduino
+- **System Software**: (Learning now) - MikanOS
+- **Embedded Systems**: Arduino, The MCUs.
 
 ## Data Science
 
-- (Coming Soon)
+- **Deep Learning**: (Coming soon)
