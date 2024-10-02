@@ -1,8 +1,8 @@
-# Project Index
+# YuruCoder's Repositories
 
 - [GitHub Profile](https://github.com/YuruCoder/YuruCoder)
 
-## My Projects
+## Projects
 
 ### The Web
 
@@ -24,6 +24,8 @@
 - [premixer](https://github.com/YuruCoder/premixer): A managing app for premixer project.
 
 ## Basics
+
+The sample programs of some popular library.
 
 ### Java
 
