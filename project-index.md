@@ -7,7 +7,7 @@
 ### The Web
 
 - [kokoa-talk](https://github.com/YuruCoder/kokoa-talk): My first coding project!
-- [momentum](https://github.com/YuruCoder/momentum): A productivity app built with vanilla JavaScript.
+- [momentum](https://github.com/YuruCoder/momentum)
 - [wetube](https://github.com/YuruCoder/wetube): My first step on a fullstack journey.
 
 ### Ramen Lab
