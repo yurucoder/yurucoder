@@ -14,20 +14,14 @@ Special thanks to [Nico](https://github.com/serranoarevalo)!
 I love games, especially JRPGs and Visual Novels.  
 So I thought of some useful tools to make a game!
 
-- **Flutter**: The simplest way to use Skia
+- **Unity**
 - **Unreal Engine**: The best graphics engine!
 
 ## Low-Level Systems
 
-- **System Software** (Now learning!!)
-- **Embedded Systems** (Coming Soon)
+- **System Software**: Learning now - MikanOS
+- **Embedded Systems**: Learning now - Arduino
 
-## Development Architecture
+## Data Science
 
-- **DevOps** (Coming Soon)
-- **Cloud Computing** (Coming Soon)
-
-## Computer Science
-
-- **Data Science** (Coming Soon)
-- **Security** (Coming Soon)
+- (Coming Soon)
