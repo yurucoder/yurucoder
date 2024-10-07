@@ -1,6 +1,6 @@
 # Code Skill Goals
 
-## Web Service : The MERN
+## Web Service
 
 I've learned these skills from the [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube).  
 Special thanks to [Nico](https://github.com/serranoarevalo)!
@@ -9,17 +9,17 @@ Special thanks to [Nico](https://github.com/serranoarevalo)!
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 
-## Graphics Editor : The GAME
+## Data Science
 
-- **Unity**: C#
-- **Unreal Engine**: Blueprint
+- **Basic**: Python, NumPy, Matplotlib
+- **Advanced**: PyTorch
 
 ## Low-Level Systems
 
-- **System Software**: ASM, C, UEFI, QEMU etc.
+- **System Software**: ASM, C, UEFI, QEMU, etc.
 - **Embedded Systems**: Arduino
 
-## Data Science
+## Graphics Editor
 
-- **Basic**: Python, Numpy, Matplotlib
-- **Enterprise**: Pytorch
+- **Unity**: C#
+- **Unreal Engine**: Blueprint
