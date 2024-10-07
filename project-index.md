@@ -6,8 +6,7 @@
 
 ### The Web
 
-About basic HTML to fullstack MERN.<br>
-From Nomad Coders.
+From basic HTML to fullstack MERN.<br>
 
 - [kokoa-talk](https://github.com/YuruCoder/kokoa-talk): My first coding project!
 - [momentum](https://github.com/YuruCoder/momentum)
@@ -16,7 +15,7 @@ From Nomad Coders.
 ### Ramen Lab
 
 My first team project.<br>
-Learn Android platform and Springboot server.
+Learn Android platform and Spring Boot server.
 
 - [ramen-lab](https://github.com/YuruCoder/ramen-lab): A prototype for a Ramen recipe lab.
 
@@ -31,11 +30,11 @@ App service with image processing and OpenAI APIs.
 
 Connect hardware to software.
 
-- [premixer](https://github.com/YuruCoder/premixer): A managing app for premixer project.
+- [premixer](https://github.com/YuruCoder/premixer): A management app for the premixer project.
 
 ## Basics
 
-The sample programs of some popular library or framework.
+Sample programs of some popular libraries or frameworks.
 
 ### Java
 
