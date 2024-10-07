@@ -52,8 +52,7 @@ Sample programs of some popular libraries or frameworks.
 
 ## Homeworks
 
-- [structured-c](https://github.com/YuruCoder/structured-c)
 - [java-programming](https://github.com/YuruCoder/java-programming)
-- [system-programming](https://github.com/YuruCoder/system-programming)
+- [structured-c](https://github.com/YuruCoder/structured-c)
 - [data-structure](https://github.com/YuruCoder/data-structure)
-- [codeclub](https://github.com/YuruCoder/codeclub)
+- [system-programming](https://github.com/YuruCoder/system-programming)
