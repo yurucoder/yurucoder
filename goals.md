@@ -14,7 +14,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo)!
 I love games, especially JRPGs and Visual Novels.  
 So I thought of some useful tools to make a game!
 
-- **Unity**: Popular solution for otaku games.
+- **Unity**: Most popular solution.
 - **Unreal Engine**: The best graphics engine!
 
 ## Low-Level Systems
