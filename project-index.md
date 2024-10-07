@@ -6,26 +6,36 @@
 
 ### The Web
 
+About basic HTML to fullstack MERN.<br>
+From Nomad Coders.
+
 - [kokoa-talk](https://github.com/YuruCoder/kokoa-talk): My first coding project!
 - [momentum](https://github.com/YuruCoder/momentum)
 - [wetube](https://github.com/YuruCoder/wetube): My first step on a fullstack journey.
 
 ### Ramen Lab
 
+My first team project.<br>
+Learn Android platform and Springboot server.
+
 - [ramen-lab](https://github.com/YuruCoder/ramen-lab): A prototype for a Ramen recipe lab.
 
 ### Tastevin
+
+App service with image processing and OpenAI APIs.
 
 - [tastevin](https://github.com/YuruCoder/tastevin): A wine search app using your camera.
 - [fast-server](https://github.com/YuruCoder/fast-server): Server for Tastevin built with FastAPI.
 
 ### Premixer
 
+Connect hardware to software.
+
 - [premixer](https://github.com/YuruCoder/premixer): A managing app for premixer project.
 
 ## Basics
 
-The sample programs of some popular library.
+The sample programs of some popular library or framework.
 
 ### Java
 
