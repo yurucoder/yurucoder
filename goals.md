@@ -1,6 +1,6 @@
 # Code Skill Goals
 
-## Web Service
+## Web Service : The MERN
 
 I've learned these skills from the [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube).  
 Special thanks to [Nico](https://github.com/serranoarevalo)!
@@ -9,19 +9,17 @@ Special thanks to [Nico](https://github.com/serranoarevalo)!
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 
-## Graphics Editor
+## Graphics Editor : The GAME
 
-I love games, especially JRPGs and Visual Novels.  
-So I thought of some useful tools to make a game!
-
-- **Unity**: Most popular solution.
-- **Unreal Engine**: The best graphics engine!
+- **Unity**: C#
+- **Unreal Engine**: Blueprint
 
 ## Low-Level Systems
 
-- **System Software**: (Learning now) - MikanOS
-- **Embedded Systems**: Arduino, The MCUs.
+- **System Software**: ASM, C, UEFI, QEMU etc.
+- **Embedded Systems**: Arduino
 
 ## Data Science
 
-- **Deep Learning**: (Coming soon)
+- **Basic**: Python, Numpy, Matplotlib
+- **Enterprise**: Pytorch
