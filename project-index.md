@@ -31,6 +31,7 @@ App service with image processing and OpenAI APIs.
 Connect hardware to software.
 
 - [premixer](https://github.com/YuruCoder/premixer): A management app for the premixer project.
+- [PremixerController](https://github.com/YuruCoder/PremixerController)
 
 ## Basics
 
