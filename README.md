@@ -1,12 +1,48 @@
-# Hello, Sekai! &nbsp; /ᐠ-ⱉ-ᐟ\ﾉ
+# YuruCoder @ Near Future Laboratory 🌱
 
-## About Me
+> A mellow tech enthusiast living in the near future, crafting code with a vintage soul.
 
-🚀 Aspiring Developer & Proud Otaku from Korea </br>
-✅ Student at Dankook University </br>
-💕 Passionate about learning new tools and technologies </br>
+## 🧪 About YuruLab
 
-## See More
+Hi there! I'm YuruCoder, a hobbyist programmer who loves to experiment with technology while maintaining an analog lifestyle. Currently residing in the near future, conducting various experiments on:
 
-- [Index](https://github.com/YuruCoder/YuruCoder/blob/master/project-index.md) of my GitHub repositories
-- My coding skill [goals](https://github.com/YuruCoder/YuruCoder/blob/master/code-stack.md)
+- 💻 Programming & Retro Tech
+- 📺 Anime & Media
+- 🎧 Music Appreciation
+- 📸 Film Photography
+- ⛺️ Outdoor Activities
+
+## 🛠 Tech Stack
+
+```
+$ neofetch
+OS: Living in the near future
+Shell: Pursuing craftsmanship in code
+Resolution: Balancing digital & analog life
+Terminal: Always open to learning
+```
+
+## 🎯 Current Focus
+
+- Exploring the intersection of technology and daily life
+- Building tools that bridge digital and analog worlds
+- Learning and growing at my own pace
+- Documenting life through photography and code
+
+## 📫 Find me at
+
+- 🐦 Twitter: [@YuruLab_at_Kinmirai](https://x.com/yurulab)
+- 📸 Photography Portfolio: [Coming Soon...]
+- 🏕️ Outdoor Adventures: [Coming Soon...]
+
+## 🌐 Languages
+
+- Korean (Native)
+- Japanese (Learning with AI assistance)
+- Code (Building things for fun)
+
+---
+
+<div align="center">
+    <i>Life is too short to run in production mode all the time.</i>
+</div>
