@@ -1,59 +1,76 @@
-# YuruCoder's Repositories
+# 🧪 YuruCoder's Laboratory
 
-- [GitHub Profile](https://github.com/YuruCoder/YuruCoder)
+> Welcome to my digital experiment archive! Here's what I've been cooking up in the lab.
 
-## Projects
+## 🚀 Featured Projects
 
-### The Web
+### 🍷 Tastevin Project
 
-From basic HTML to fullstack MERN.
+AI-Powered Wine Recognition System
 
-- [kokoa-talk](https://github.com/YuruCoder/kokoa-talk) - My first coding project!
-- [momentum](https://github.com/YuruCoder/momentum)
-- [wetube](https://github.com/YuruCoder/wetube) - My first step on a fullstack journey.
+- [**tastevin**](https://github.com/YuruCoder/tastevin) - Smart wine search app using computer vision
+- [**fast-server**](https://github.com/YuruCoder/fast-server) - FastAPI backend with OpenAI integration
 
-### Ramen Lab
+### 🍜 Ramen Lab
 
-My first team project.  
-Learn Android platform and Spring Boot server.
+Collaborative Recipe Development Platform
 
-- [ramen-lab](https://github.com/YuruCoder/ramen-lab) - A prototype for a Ramen recipe lab.
+- [**ramen-lab**](https://github.com/YuruCoder/ramen-lab) - Android app for ramen recipe experimentation
+  - _First team project_
+  - _Tech Stack: Android, Spring Boot_
 
-### Tastevin
+### 🎛️ Premixer Series
 
-App service with image processing and OpenAI APIs.
+Hardware-Software Integration Project
 
-- [tastevin](https://github.com/YuruCoder/tastevin) - A wine search app using your camera.
-- [fast-server](https://github.com/YuruCoder/fast-server) - Server for Tastevin built with FastAPI.
+- [**premixer**](https://github.com/YuruCoder/premixer) - Management application
+- [**PremixerController**](https://github.com/YuruCoder/PremixerController) - Hardware control interface
 
-### Premixer
+## 💻 Web Development Journey
 
-Connect hardware to software.
+_From zero to fullstack: My web development chronicles_
 
-- [premixer](https://github.com/YuruCoder/premixer) - A management app for the premixer project.
-- [PremixerController](https://github.com/YuruCoder/PremixerController)
+### Learning Path
 
-## Basics
+1. [**kokoa-talk**](https://github.com/YuruCoder/kokoa-talk) - My first steps into coding
+2. [**momentum**](https://github.com/YuruCoder/momentum) - Frontend exploration
+3. [**wetube**](https://github.com/YuruCoder/wetube) - First fullstack application
 
-Sample programs of some popular libraries or frameworks.
+## 📚 Technical Experiments
 
-### Java
+### Java Ecosystem
 
-- [simple-spring](https://github.com/YuruCoder/simple-spring)
+- [**simple-spring**](https://github.com/YuruCoder/simple-spring) - Spring Framework basics
 
-### JavaScript
+### JavaScript Universe
 
-- [graphql-api](https://github.com/YuruCoder/graphql-api)
-- [apollo-movie](https://github.com/YuruCoder/apollo-movie)
+- [**graphql-api**](https://github.com/YuruCoder/graphql-api) - GraphQL API implementation
+- [**apollo-movie**](https://github.com/YuruCoder/apollo-movie) - Apollo client integration
 
-### Python
+### Python Laboratory
 
-- [py-scrapper](https://github.com/YuruCoder/py-scrapper)
-- [corona-dashboard](https://github.com/YuruCoder/corona-dashboard)
+- [**py-scrapper**](https://github.com/YuruCoder/py-scrapper) - Web scraping experiments
+- [**corona-dashboard**](https://github.com/YuruCoder/corona-dashboard) - Data visualization project
 
-## Homeworks
+## 📖 Academic Archives
 
-- [java-programming](https://github.com/YuruCoder/java-programming)
-- [structured-c](https://github.com/YuruCoder/structured-c)
-- [data-structure](https://github.com/YuruCoder/data-structure)
-- [system-programming](https://github.com/YuruCoder/system-programming)
+_Foundation building through academic projects_
+
+- [**java-programming**](https://github.com/YuruCoder/java-programming) - Java fundamentals
+- [**structured-c**](https://github.com/YuruCoder/structured-c) - C programming principles
+- [**data-structure**](https://github.com/YuruCoder/data-structure) - Data structures implementation
+- [**system-programming**](https://github.com/YuruCoder/system-programming) - System-level programming
+
+---
+
+<div align="center">
+
+### 🔬 Lab Status
+
+![Active Projects](https://img.shields.io/badge/Active_Projects-3-success)
+![Experiments](https://img.shields.io/badge/Experiments-10+-blue)
+![Tech Stack](https://img.shields.io/badge/Tech_Stack-Diverse-orange)
+
+_Every commit is a new experiment in the near future_
+
+</div>
