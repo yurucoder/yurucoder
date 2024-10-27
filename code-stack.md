@@ -1,25 +1,73 @@
-# Code Skill Goals
+# 🎯 Code Skill Goals
 
-## Web Service
+> Mapping out my journey through different tech territories in the near future.
 
-I've learned these skills from the [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube).  
-Special thanks to [Nico](https://github.com/serranoarevalo)!
+## 🌐 Web Service Development
 
-- **Frontend**: JavaScript, Pug, Sass
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
+_Learned through [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube)_  
+_Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guidance!_ 🙏
 
-## Data Science
+```javascript
+const stack = {
+  frontend: ["JavaScript", "Pug", "Sass"],
+  backend: ["Node.js", "Express"],
+  database: ["MongoDB"],
+};
+```
 
-- **Basic**: Python, NumPy, Matplotlib
-- **Advanced**: PyTorch
+## 📊 Data Science Explorer
 
-## Low-Level Systems
+```python
+skills = {
+    "basic": [
+        "Python",
+        "NumPy",
+        "Matplotlib"
+    ],
+    "advanced": [
+        "PyTorch"  # Deep Learning Journey
+    ]
+}
+```
 
-- **System Software**: ASM, C, UEFI, QEMU, etc.
-- **Embedded Systems**: Arduino
+## 💻 Low-Level Systems Engineering
 
-## Graphics Editor
+```c
+struct SystemSkills {
+    char* system_software[6] = {
+        "ASM",
+        "C",
+        "UEFI",
+        "QEMU",
+        "etc."
+    };
+    char* embedded = "Arduino";
+} skills;
+```
 
-- **Unity**: C#
-- **Unreal Engine**: Blueprint
+## 🎮 Graphics & Game Development
+
+```csharp
+class GraphicsSkills
+{
+    string[] engines = {
+        "Unity    // C#",
+        "Unreal   // Blueprint"
+    };
+}
+```
+
+---
+
+<div align="center">
+
+### 🔬 Skill Development Status
+
+![Web](https://img.shields.io/badge/Web-In_Progress-blue)
+![Data Science](https://img.shields.io/badge/Data_Science-Learning-yellow)
+![Systems](https://img.shields.io/badge/Systems-Exploring-orange)
+![Graphics](https://img.shields.io/badge/Graphics-Starting-green)
+
+_Every error message is a new lesson in disguise_
+
+</div>
