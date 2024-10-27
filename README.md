@@ -12,6 +12,15 @@ Hi there! I'm YuruCoder, a hobbyist programmer who loves to experiment with tech
 - 📸 Film Photography
 - ⛺️ Outdoor Activities
 
+## 🗺️ Lab Guide
+
+Want to explore the laboratory? Check out these documents!
+
+### 📑 Laboratory Documentation
+
+- [**Project Index**](project-index.md) - Archive of all experiments conducted
+- [**Code Stack**](code-stack.md) - Tools used and learning journey
+
 ## 🛠 Tech Stack
 
 ```
