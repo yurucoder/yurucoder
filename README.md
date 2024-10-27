@@ -31,7 +31,7 @@ Terminal: Always open to learning
 
 ## 📫 Find me at
 
-- 🐦 Twitter: [@YuruLab_at_Kinmirai](https://x.com/yurulab)
+- 🐦 Twitter: [@yurulab](https://x.com/yurulab)
 - 📸 Photography Portfolio: [Coming Soon...]
 - 🏕️ Outdoor Adventures: [Coming Soon...]
 
