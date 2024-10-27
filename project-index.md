@@ -6,31 +6,31 @@
 
 ### The Web
 
-From basic HTML to fullstack MERN.<br>
+From basic HTML to fullstack MERN.
 
-- [kokoa-talk](https://github.com/YuruCoder/kokoa-talk): My first coding project!
+- [kokoa-talk](https://github.com/YuruCoder/kokoa-talk) - My first coding project!
 - [momentum](https://github.com/YuruCoder/momentum)
-- [wetube](https://github.com/YuruCoder/wetube): My first step on a fullstack journey.
+- [wetube](https://github.com/YuruCoder/wetube) - My first step on a fullstack journey.
 
 ### Ramen Lab
 
-My first team project.<br>
+My first team project.  
 Learn Android platform and Spring Boot server.
 
-- [ramen-lab](https://github.com/YuruCoder/ramen-lab): A prototype for a Ramen recipe lab.
+- [ramen-lab](https://github.com/YuruCoder/ramen-lab) - A prototype for a Ramen recipe lab.
 
 ### Tastevin
 
 App service with image processing and OpenAI APIs.
 
-- [tastevin](https://github.com/YuruCoder/tastevin): A wine search app using your camera.
-- [fast-server](https://github.com/YuruCoder/fast-server): Server for Tastevin built with FastAPI.
+- [tastevin](https://github.com/YuruCoder/tastevin) - A wine search app using your camera.
+- [fast-server](https://github.com/YuruCoder/fast-server) - Server for Tastevin built with FastAPI.
 
 ### Premixer
 
 Connect hardware to software.
 
-- [premixer](https://github.com/YuruCoder/premixer): A management app for the premixer project.
+- [premixer](https://github.com/YuruCoder/premixer) - A management app for the premixer project.
 - [PremixerController](https://github.com/YuruCoder/PremixerController)
 
 ## Basics
