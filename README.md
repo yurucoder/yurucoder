@@ -1,4 +1,4 @@
-# YuruCoder @ Near Future Laboratory 🌱
+# YuruCoder @ Kinmirai Laboratory 🌱
 
 > A mellow tech enthusiast living in the near future, crafting code with a vintage soul.
 
