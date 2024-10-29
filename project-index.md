@@ -4,7 +4,7 @@
 
 ## 🚀 Featured Projects
 
-### 💻 The Web
+### The Web
 
 From zero to fullstack: My web development chronicles
 
@@ -12,7 +12,7 @@ From zero to fullstack: My web development chronicles
 - [**momentum**](https://github.com/YuruCoder/momentum) - Frontend exploration
 - [**wetube**](https://github.com/YuruCoder/wetube) - First fullstack application
 
-### 🍜 Ramen Lab
+### Ramen Lab
 
 Collaborative Recipe Search Platform
 
@@ -20,14 +20,14 @@ Collaborative Recipe Search Platform
   - _First team project_
   - _Tech Stack: Android, Spring Boot_
 
-### 🍷 Tastevin Project
+### Tastevin Project
 
 AI-Powered Wine Recognition System
 
 - [**tastevin**](https://github.com/YuruCoder/tastevin) - Smart wine search app using computer vision
 - [**fast-server**](https://github.com/YuruCoder/fast-server) - FastAPI backend with OpenAI integration
 
-### 🎛️ Premixer Series
+### Premixer Series
 
 Hardware-Software Integration Project
 
