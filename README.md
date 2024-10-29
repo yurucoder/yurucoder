@@ -6,11 +6,11 @@
 
 Hi there! I'm YuruCoder, a hobbyist programmer who loves to experiment with technology while maintaining an analog lifestyle. Currently residing in the near future, conducting various experiments on:
 
-- 💻 Programming & Retro Tech
-- 📺 Anime & Media
-- 🎧 Music Appreciation
-- 📸 Film Photography
-- ⛺️ Outdoor Activities
+- Programming & Retro Tech
+- Anime & Media
+- Music Appreciation
+- Film Photography
+- Outdoor Activities
 
 ## 🗺️ Lab Guide
 
