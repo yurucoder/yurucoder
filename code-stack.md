@@ -4,7 +4,7 @@
 
 ## 🌐 Web Service Development
 
-_Learned through [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube)_  
+_Learned through [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube)_
 _Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guidance!_ 🙏
 
 ```javascript
@@ -15,18 +15,35 @@ const stack = {
 };
 ```
 
-## 📊 Data Science Explorer
+## 📱 App Service Development
 
-```python
-skills = {
-    "basic": [
-        "Python",
-        "NumPy",
-        "Matplotlib"
-    ],
-    "advanced": [
-        "PyTorch"  # Deep Learning Journey
-    ]
+```kotlin
+object AppDevelopment {
+    val android = Stack(
+        language = "Kotlin",
+        framework = "Android SDK",
+        architecture = "MVVM",
+        tools = ["Jetpack Compose", "Coroutines", "Room"]
+    )
+
+    val ios = Stack(
+        language = "Swift",
+        framework = "UIKit & SwiftUI",
+        architecture = "MVC",
+        tools = ["Core Data", "Combine"]
+    )
+}
+```
+
+## 🎮 Graphics & Game Development
+
+```csharp
+class GraphicsSkills
+{
+    string[] engines = {
+        "Unity",   // C#
+        "Unreal"   // Blueprint, C++
+    };
 }
 ```
 
@@ -45,15 +62,18 @@ struct SystemSkills {
 } skills;
 ```
 
-## 🎮 Graphics & Game Development
+## 📊 Data Science Explorer
 
-```csharp
-class GraphicsSkills
-{
-    string[] engines = {
-        "Unity    // C#",
-        "Unreal   // Blueprint"
-    };
+```python
+skills = {
+    "basic": [
+        "Python",
+        "NumPy",
+        "Matplotlib"
+    ],
+    "advanced": [
+        "PyTorch" # Deep Learning Journey
+    ]
 }
 ```
 
@@ -64,9 +84,10 @@ class GraphicsSkills
 ### 🔬 Skill Development Status
 
 ![Web](https://img.shields.io/badge/Web-In_Progress-blue)
-![Data Science](https://img.shields.io/badge/Data_Science-Learning-yellow)
-![Systems](https://img.shields.io/badge/Systems-Exploring-orange)
+![App](https://img.shields.io/badge/App-In_Progress-purple)
 ![Graphics](https://img.shields.io/badge/Graphics-Starting-green)
+![Systems](https://img.shields.io/badge/Systems-Exploring-orange)
+![Data Science](https://img.shields.io/badge/Data_Science-Learning-yellow)
 
 _Every error message is a new lesson in disguise_
 
