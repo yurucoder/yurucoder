@@ -16,7 +16,7 @@ _From zero to fullstack: My web development chronicles_
 
 ### 🍜 Ramen Lab
 
-Collaborative Recipe Development Platform
+Collaborative Recipe Search Platform
 
 - [**ramen-lab**](https://github.com/YuruCoder/ramen-lab) - Android app for ramen recipe experimentation
   - _First team project_
