@@ -21,16 +21,12 @@ const stack = {
 object AppDevelopment {
     val android = Stack(
         language = "Kotlin",
-        framework = "Android SDK",
-        architecture = "MVVM",
-        tools = ["Jetpack Compose", "Coroutines", "Room"]
+        framework = "Android SDK"
     )
 
     val ios = Stack(
         language = "Swift",
-        framework = "UIKit & SwiftUI",
-        architecture = "MVC",
-        tools = ["Core Data", "Combine"]
+        framework = "UIKit & SwiftUI"
     )
 }
 ```
@@ -83,7 +79,7 @@ skills = {
 
 ### 🔬 Skill Development Status
 
-![Web](https://img.shields.io/badge/Web-In_Progress-blue)
+![Web](https://img.shields.io/badge/Web-Active-blue)
 ![App](https://img.shields.io/badge/App-In_Progress-purple)
 ![Graphics](https://img.shields.io/badge/Graphics-Starting-green)
 ![Systems](https://img.shields.io/badge/Systems-Exploring-orange)
