@@ -2,30 +2,6 @@
 
 > Welcome to my digital experiment archive! Here's what I've been cooking up in the lab.
 
-## 🚀 Featured Projects
-
-### 🍷 Tastevin Project
-
-AI-Powered Wine Recognition System
-
-- [**tastevin**](https://github.com/YuruCoder/tastevin) - Smart wine search app using computer vision
-- [**fast-server**](https://github.com/YuruCoder/fast-server) - FastAPI backend with OpenAI integration
-
-### 🍜 Ramen Lab
-
-Collaborative Recipe Development Platform
-
-- [**ramen-lab**](https://github.com/YuruCoder/ramen-lab) - Android app for ramen recipe experimentation
-  - _First team project_
-  - _Tech Stack: Android, Spring Boot_
-
-### 🎛️ Premixer Series
-
-Hardware-Software Integration Project
-
-- [**premixer**](https://github.com/YuruCoder/premixer) - Management application
-- [**PremixerController**](https://github.com/YuruCoder/PremixerController) - Hardware control interface
-
 ## 💻 Web Development Journey
 
 _From zero to fullstack: My web development chronicles_
@@ -35,6 +11,30 @@ _From zero to fullstack: My web development chronicles_
 1. [**kokoa-talk**](https://github.com/YuruCoder/kokoa-talk) - My first steps into coding
 2. [**momentum**](https://github.com/YuruCoder/momentum) - Frontend exploration
 3. [**wetube**](https://github.com/YuruCoder/wetube) - First fullstack application
+
+## 🚀 Featured Projects
+
+### 🍜 Ramen Lab
+
+Collaborative Recipe Development Platform
+
+- [**ramen-lab**](https://github.com/YuruCoder/ramen-lab) - Android app for ramen recipe experimentation
+  - _First team project_
+  - _Tech Stack: Android, Spring Boot_
+
+### 🍷 Tastevin Project
+
+AI-Powered Wine Recognition System
+
+- [**tastevin**](https://github.com/YuruCoder/tastevin) - Smart wine search app using computer vision
+- [**fast-server**](https://github.com/YuruCoder/fast-server) - FastAPI backend with OpenAI integration
+
+### 🎛️ Premixer Series
+
+Hardware-Software Integration Project
+
+- [**PremixerUpdater**](https://github.com/YuruCoder/PremixerUpdater) - Management application
+- [**PremixerController**](https://github.com/YuruCoder/PremixerController) - Hardware control interface
 
 ## 📚 Technical Experiments
 
