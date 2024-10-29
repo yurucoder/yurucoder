@@ -65,7 +65,7 @@ _Foundation building through academic projects_
 
 ### 🔬 Lab Status
 
-![Active Projects](https://img.shields.io/badge/Active_Projects-3-success)
+![Active Projects](https://img.shields.io/badge/Active_Projects-4-success)
 ![Experiments](https://img.shields.io/badge/Experiments-10+-blue)
 ![Tech Stack](https://img.shields.io/badge/Tech_Stack-Diverse-orange)
 
