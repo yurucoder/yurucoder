@@ -2,17 +2,15 @@
 
 > Welcome to my digital experiment archive! Here's what I've been cooking up in the lab.
 
-## 💻 Web Development Journey
-
-_From zero to fullstack: My web development chronicles_
-
-### Learning Path
-
-1. [**kokoa-talk**](https://github.com/YuruCoder/kokoa-talk) - My first steps into coding
-2. [**momentum**](https://github.com/YuruCoder/momentum) - Frontend exploration
-3. [**wetube**](https://github.com/YuruCoder/wetube) - First fullstack application
-
 ## 🚀 Featured Projects
+
+### 💻 The Web
+
+From zero to fullstack: My web development chronicles
+
+- [**kokoa-talk**](https://github.com/YuruCoder/kokoa-talk) - My first steps into coding
+- [**momentum**](https://github.com/YuruCoder/momentum) - Frontend exploration
+- [**wetube**](https://github.com/YuruCoder/wetube) - First fullstack application
 
 ### 🍜 Ramen Lab
 
