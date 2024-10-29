@@ -16,20 +16,8 @@ Hi there! I'm YuruCoder, a hobbyist programmer who loves to experiment with tech
 
 Want to explore the laboratory? Check out these documents!
 
-### 📑 Laboratory Documentation
-
 - [**Project Index**](project-index.md) - Archive of all experiments conducted
 - [**Code Stack**](code-stack.md) - Tools used and learning journey
-
-## 🛠 Tech Stack
-
-```
-$ neofetch
-OS: Living in the near future
-Shell: Pursuing craftsmanship in code
-Resolution: Balancing digital & analog life
-Terminal: Always open to learning
-```
 
 ## 🎯 Current Focus
 
@@ -38,16 +26,10 @@ Terminal: Always open to learning
 - Learning and growing at my own pace
 - Documenting life through photography and code
 
-## 📫 Find me at
-
-- 🐦 Twitter: [@yurulab](https://x.com/yurulab)
-- 📸 Photography Portfolio: [Coming Soon...]
-- 🏕️ Outdoor Adventures: [Coming Soon...]
-
 ## 🌐 Languages
 
 - Korean (Native)
-- Japanese (Learning with AI assistance)
+- Japanese (Learning)
 - Code (Building things for fun)
 
 ---
