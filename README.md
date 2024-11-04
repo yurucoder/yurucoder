@@ -1,39 +1,35 @@
 # YuruCoder @ Kinmirai Laboratory 🌱
 
-> A mellow tech enthusiast living in the near future, crafting code with a vintage soul.
+> 근미래의 빈티지 수집가. 느긋하게 코드를 공예하고 있습니다.
 
-## 🧪 About YuruLab
+## 🧪 YuruCoder에 대하여
 
-Hi there! I'm YuruCoder, a hobbyist programmer who loves to experiment with technology while maintaining an analog lifestyle. Currently residing in the near future, conducting various experiments on:
+유루코더입니다.  
+아날로그한 삶을 위해 기술을 소비하고 있습니다.
 
-- Programming & Retro Tech
-- Anime & Media
-- Music Appreciation
-- Film Photography
-- Outdoor Activities
+요즘 즐기는 취미:
 
-## 🗺️ Lab Guide
+- 애니메이션과 미디어
+- 음악 감상
+- 포토그래피
+- 아웃도어 활동
 
-Want to explore the laboratory? Check out these documents!
+## 🗺️ Kinmirai Laboratory 안내
 
-- [**Project Index**](project-index.md) - Archive of all experiments conducted
-- [**Code Stack**](code-stack.md) - Tools used and learning journey
+근미래 연구소.  
+사실 Repo와 Labo의 어감이 비슷해서 만든 말장난입니다.
 
-## 🎯 Current Focus
+- [**Project Index**](project-index.md)
+- [**Code Stack**](code-stack.md)
 
-- Exploring the intersection of technology and daily life
-- Building tools that bridge digital and analog worlds
-- Learning and growing at my own pace
-- Documenting life through photography and code
+## 🎯 지향점에 관하여
 
-## 🌐 Languages
-
-- Korean (Native)
-- Japanese (Learning)
-- Code (Building things for fun)
+- 삶과 기술의 교차점을 알아가기
+- 디지털과 아날로그를 연결하는 도구
+- 일상을 코드와 사진으로 남기기
 
 ---
 
 <div align="center">
-    <i>Life is too short to run in production mode all the time.</i>
+    <i>언제나 생산적이기에 인생은 너무 짧다.</i>
 </div>
