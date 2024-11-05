@@ -1,6 +1,6 @@
-# 🎯 Code Skill Goals
+# Code Skill Goals
 
-> Mapping out my journey through different tech territories in the near future.
+> 근미래를 향하는 유루코더 로드맵
 
 ## 🌐 Web Service
 
@@ -24,7 +24,7 @@ _Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing gui
 ## 💻 Low-Level Systems
 
 - System: ASM, C, UEFI, QEMU
-- Embeded: Arduino
+- Embeded: Arduino, MCU
 
 ## 📊 Data Science
 
@@ -34,5 +34,5 @@ _Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing gui
 ---
 
 <div align="center">
-    <i>Every error message is a new lesson in disguise</i>
+    <i>새로운 배움은 에러 속에 숨어 있다</i>
 </div>
