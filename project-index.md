@@ -1,4 +1,4 @@
-# 🧪 YuruCoder's Laboratory
+# YuruCoder's Laboratory
 
 > 근미래 연구소와 유루코더의 역사
 
