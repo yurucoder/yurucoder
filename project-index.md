@@ -1,12 +1,12 @@
 # 🧪 YuruCoder's Laboratory
 
-> Welcome to my digital experiment archive! Here's what I've been cooking up in the lab.
+> 근미래 연구소와 유루코더의 역사
 
 ## 🚀 Featured Projects
 
 ### The Web
 
-From zero to fullstack: My web development chronicles
+_From zero to fullstack: My web development chronicles_
 
 - [**kokoa-talk**](https://github.com/YuruCoder/kokoa-talk) - My first steps into coding
 - [**momentum**](https://github.com/YuruCoder/momentum) - Frontend exploration
@@ -14,22 +14,20 @@ From zero to fullstack: My web development chronicles
 
 ### Ramen Lab
 
-Collaborative Recipe Search Platform
+_First team project_
 
-- [**ramen-lab**](https://github.com/YuruCoder/ramen-lab) - Android app for ramen recipe experimentation
-  - _First team project_
-  - _Tech Stack: Android, Spring Boot_
+- [**ramen-lab**](https://github.com/YuruCoder/ramen-lab) - Ramen recipe search platform
 
 ### Tastevin Project
 
-AI-Powered Wine Recognition System
+_AI-Powered Wine Recognition System_
 
 - [**tastevin**](https://github.com/YuruCoder/tastevin) - Smart wine search app using computer vision
 - [**fast-server**](https://github.com/YuruCoder/fast-server) - FastAPI backend with OpenAI integration
 
 ### Premixer Series
 
-Hardware-Software Integration Project
+_Hardware-Software Integration Project_
 
 - [**PremixerUpdater**](https://github.com/YuruCoder/PremixerUpdater) - Management application
 - [**PremixerController**](https://github.com/YuruCoder/PremixerController) - Hardware control interface
@@ -53,7 +51,7 @@ Hardware-Software Integration Project
 
 ## 📖 Academic Archives
 
-_Foundation building through academic projects_
+_학술 프로젝트, 라고 쓰고 숙제라고 읽는다._
 
 - [**java-programming**](https://github.com/YuruCoder/java-programming) - Java fundamentals
 - [**structured-c**](https://github.com/YuruCoder/structured-c) - C programming principles
@@ -63,13 +61,5 @@ _Foundation building through academic projects_
 ---
 
 <div align="center">
-
-### 🔬 Lab Status
-
-![Active Projects](https://img.shields.io/badge/Active_Projects-4-success)
-![Experiments](https://img.shields.io/badge/Experiments-10+-blue)
-![Tech Stack](https://img.shields.io/badge/Tech_Stack-Diverse-orange)
-
-_Every commit is a new experiment in the near future_
-
+    <i>모든 커밋은 근미래를 향한다</i>
 </div>
