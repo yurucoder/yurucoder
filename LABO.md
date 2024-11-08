@@ -47,7 +47,6 @@ _Hardware-Software Integration Project_
 
 - [**py-scrapper**](https://github.com/YuruCoder/py-scrapper) - Web scraping experiments
 - [**corona-dashboard**](https://github.com/YuruCoder/corona-dashboard) - Data visualization project
-- [**fishai**](https://github.com/YuruCoder/fishai) - Deep Learning from Scratch
 
 ## 📖 Academic Archives
 
