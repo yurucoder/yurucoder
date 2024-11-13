@@ -2,7 +2,7 @@
 
 ## Web Service
 
-Learned through [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube)
+Learned through [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube)  
 Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guidance!
 
 - Frontend: JavaScript, Pug, Sass
