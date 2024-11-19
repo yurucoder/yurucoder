@@ -1,4 +1,5 @@
 # Hello, Sekai!
 
-- [**Repository Index**](repositories.md)
-- [**Roadmap**](roadmap.md)
+- [**Roadmap with Software Platform**](platforms.md)
+- [**Basics**](basics.md)
+- [**Homeworks**](homeworks.md)
