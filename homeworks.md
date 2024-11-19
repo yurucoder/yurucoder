@@ -1,4 +1,4 @@
-# Homeworks
+# 과제
 
 - [**java-programming**](https://github.com/YuruCoder/java-programming) - Java fundamentals
 - [**structured-c**](https://github.com/YuruCoder/structured-c) - C programming principles
