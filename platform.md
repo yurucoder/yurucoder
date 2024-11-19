@@ -51,3 +51,8 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 - [**PremixerUpdater**](https://github.com/YuruCoder/PremixerUpdater) - Management application
 - [**PremixerController**](https://github.com/YuruCoder/PremixerController) - Hardware control interface
+
+## 앞으로 추가될 플랫폼
+
+- Game Platform: Unity and Unreal Engine
+- Linux Platform
