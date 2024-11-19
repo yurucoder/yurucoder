@@ -1,4 +1,6 @@
-# 과제
+# 대학 과제
+
+단국대학교 소프트웨어학과 과제.
 
 - [**java-programming**](https://github.com/YuruCoder/java-programming) - Java fundamentals
 - [**structured-c**](https://github.com/YuruCoder/structured-c) - C programming principles
