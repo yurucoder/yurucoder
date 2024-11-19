@@ -1,5 +1,4 @@
 # Hello, Sekai!
 
-- [**Roadmap with Software Platform**](platforms.md)
+- [**Roadmaps**](roadmaps.md)
 - [**Basics**](basics.md)
-- [**Homeworks**](homeworks.md)
