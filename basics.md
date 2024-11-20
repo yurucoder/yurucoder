@@ -1,8 +1,4 @@
-# Basics
-
-## Java
-
-- [**simple-spring**](https://github.com/YuruCoder/simple-spring) - Spring Framework basics
+# 라이브러리 연습
 
 ## JavaScript
 
@@ -13,6 +9,10 @@
 
 - [**py-scrapper**](https://github.com/YuruCoder/py-scrapper) - Web scraping experiments
 - [**corona-dashboard**](https://github.com/YuruCoder/corona-dashboard) - Data visualization project
+
+## Java
+
+- [**simple-spring**](https://github.com/YuruCoder/simple-spring) - Spring Framework basics
 
 # 대학 과제
 
