@@ -25,7 +25,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 ### Repository
 
 - [**kokoa-talk**](https://github.com/YuruCoder/kokoa-talk) - My first steps into coding
-- [**momentum**](https://github.com/YuruCoder/momentum) - Frontend exploration
+- [**momentum**](https://github.com/YuruCoder/momentum)
 - [**wetube**](https://github.com/YuruCoder/wetube) - First fullstack application
 
 ## Ramen Lab: App Service Basic
@@ -37,7 +37,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ### Repository
 
-- [**ramen-lab**](https://github.com/YuruCoder/ramen-lab) - Ramen recipe search platform
+- [**ramen-lab**](https://github.com/YuruCoder/ramen-lab)
 
 ## Tastevin: App Service with AI
 
@@ -48,8 +48,8 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ### Repository
 
-- [**tastevin**](https://github.com/YuruCoder/tastevin) - Smart wine search app using computer vision
-- [**fast-server**](https://github.com/YuruCoder/fast-server) - FastAPI backend with OpenAI integration
+- [**tastevin**](https://github.com/YuruCoder/tastevin)
+- [**fast-server**](https://github.com/YuruCoder/fast-server)
 
 ## Premixer: App Service with Hardware
 
@@ -60,8 +60,8 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ### Repository
 
-- [**PremixerUpdater**](https://github.com/YuruCoder/PremixerUpdater) - Management application
-- [**PremixerController**](https://github.com/YuruCoder/PremixerController) - Hardware control interface
+- [**PremixerUpdater**](https://github.com/YuruCoder/PremixerUpdater)
+- [**PremixerController**](https://github.com/YuruCoder/PremixerController)
 
 ## 앞으로 추가될 플랫폼
 
