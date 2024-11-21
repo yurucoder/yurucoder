@@ -1,4 +1,4 @@
 # Hello, Sekai!
 
-- [**Roadmaps**](roadmaps.md)
 - [**Basics**](basics.md)
+- [**Roadmaps**](roadmaps.md)
