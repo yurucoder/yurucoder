@@ -1,24 +1,27 @@
-# 라이브러리 연습
+# 컴퓨터 사이언스
 
-## JavaScript
-
-- [**graphql-api**](https://github.com/YuruCoder/graphql-api) - GraphQL API implementation
-- [**apollo-movie**](https://github.com/YuruCoder/apollo-movie) - Apollo client integration
-
-## Python
-
-- [**py-scrapper**](https://github.com/YuruCoder/py-scrapper) - Web scraping experiments
-- [**corona-dashboard**](https://github.com/YuruCoder/corona-dashboard) - Data visualization project
-
-## Java
-
-- [**simple-spring**](https://github.com/YuruCoder/simple-spring) - Spring Framework basics
+- **MikanOS**
+- **Fish Book Deep Learning**
 
 # 대학 과제
 
-단국대학교 소프트웨어학과 과제.
+- [**java-programming**](https://github.com/YuruCoder/java-programming)
+- [**structured-c**](https://github.com/YuruCoder/structured-c)
+- [**data-structure**](https://github.com/YuruCoder/data-structure)
+- [**system-programming**](https://github.com/YuruCoder/system-programming)
 
-- [**java-programming**](https://github.com/YuruCoder/java-programming) - Java fundamentals
-- [**structured-c**](https://github.com/YuruCoder/structured-c) - C programming principles
-- [**data-structure**](https://github.com/YuruCoder/data-structure) - Data structures implementation
-- [**system-programming**](https://github.com/YuruCoder/system-programming) - System-level programming
+# 라이브러리 샘플
+
+## JavaScript
+
+- [**graphql-api**](https://github.com/YuruCoder/graphql-api)
+- [**apollo-movie**](https://github.com/YuruCoder/apollo-movie)
+
+## Python
+
+- [**py-scrapper**](https://github.com/YuruCoder/py-scrapper)
+- [**corona-dashboard**](https://github.com/YuruCoder/corona-dashboard)
+
+## Java
+
+- [**simple-spring**](https://github.com/YuruCoder/simple-spring)
