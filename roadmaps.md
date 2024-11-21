@@ -25,7 +25,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 - [**momentum**](https://github.com/YuruCoder/momentum)
 - [**wetube**](https://github.com/YuruCoder/wetube) - First fullstack application
 
-## Ramen Lab: App Service Basic
+## Ramen Lab: Android Service Basic
 
 ### Used Tech
 
@@ -36,7 +36,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 - [**ramen-lab**](https://github.com/YuruCoder/ramen-lab)
 
-## Tastevin: App Service with AI
+## Tastevin: Android Service with AI
 
 ### Used Tech
 
@@ -48,7 +48,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 - [**tastevin**](https://github.com/YuruCoder/tastevin)
 - [**fast-server**](https://github.com/YuruCoder/fast-server)
 
-## Premixer: App Service with Hardware
+## Premixer: Android Service with Hardware
 
 ### Used Tech
 
