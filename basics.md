@@ -1,6 +1,6 @@
 # 컴퓨터 사이언스
 
-- **MikanOS**
+- [**MandiOS**](https://github.com/yurucoder/mandios)
 - **Fish Book Deep Learning**
 
 # 대학 과제
