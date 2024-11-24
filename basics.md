@@ -1,6 +1,6 @@
 # 컴퓨터 사이언스
 
-- [**mandios**](https://github.com/yurucoder/mandios)
+- [**kaos**](https://github.com/yurucoder/kaos)
 - **Fish Book Deep Learning**
 
 # 대학 과제
