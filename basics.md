@@ -1,6 +1,6 @@
 # 컴퓨터 사이언스
 
-- [**kaos**](https://github.com/yurucoder/kaos)
+- **MikanOS**
 - **Fish Book Deep Learning**
 
 # 대학 과제
