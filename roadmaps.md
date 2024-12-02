@@ -8,7 +8,7 @@
 - [ ] Game Platform: Unity and Unreal Engine
 - [ ] Data Platform: Python/CUDA
 
-## The Web: Web Service
+## The Web: Fullstack MVC
 
 Learned through [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube)  
 Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guidance!
