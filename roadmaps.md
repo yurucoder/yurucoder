@@ -71,7 +71,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 - [**noom**](https://github.com/yurucoder/noom)
 
-## Game Dev Basic
+## Kimchi Run: Game Service Basic
 
 ### Used Tech
 
