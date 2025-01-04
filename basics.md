@@ -1,6 +1,6 @@
 # 컴퓨터 사이언스
 
-- [**MikanOS**](https://github.com/yurucoder/myos)
+- **MikanOS**
 - **Fish Book Deep Learning**
 
 # 대학 과제
