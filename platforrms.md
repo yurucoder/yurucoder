@@ -9,7 +9,7 @@
 
 ## The Web: FullStack Basic
 
-Learned through [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube)  
+Learned through [Wetube](https://github.com/yurucoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube)  
 Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guidance!
 
 ### Used Tech
@@ -20,9 +20,9 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ### Repository
 
-- [**kokoa-talk**](https://github.com/YuruCoder/kokoa-talk) - My first steps into coding
-- [**momentum**](https://github.com/YuruCoder/momentum)
-- [**wetube**](https://github.com/YuruCoder/wetube) - First fullstack application
+- [**kokoa-talk**](https://github.com/yurucoder/kokoa-talk) - My first steps into coding
+- [**momentum**](https://github.com/yurucoder/momentum)
+- [**wetube**](https://github.com/yurucoder/wetube) - First fullstack application
 
 ## ZOOM Clone: FullStack Realtime Service
 
@@ -44,7 +44,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ### Repository
 
-- [**ramen-lab**](https://github.com/YuruCoder/ramen-lab)
+- [**ramen-lab**](https://github.com/yurucoder/ramen-lab)
 
 ## Tastevin: Android Service with AI
 
@@ -55,8 +55,8 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ### Repository
 
-- [**tastevin**](https://github.com/YuruCoder/tastevin)
-- [**fast-server**](https://github.com/YuruCoder/fast-server)
+- [**tastevin**](https://github.com/yurucoder/tastevin)
+- [**fast-server**](https://github.com/yurucoder/fast-server)
 
 ## Premixer: Android Service with Hardware
 
@@ -67,8 +67,8 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ### Repository
 
-- [**PremixerUpdater**](https://github.com/YuruCoder/PremixerUpdater)
-- [**PremixerController**](https://github.com/YuruCoder/PremixerController)
+- [**PremixerUpdater**](https://github.com/yurucoder/PremixerUpdater)
+- [**PremixerController**](https://github.com/yurucoder/PremixerController)
 
 ## Kimchi Run: Game Service Basic
 
