@@ -6,9 +6,8 @@
 - [ ] Windows Platform: C#/.NET
 - [x] Embedded Platform: C++/Arduino
 - [ ] Game Platform: Unity and Unreal Engine
-- [ ] Data Platform: Python/CUDA
 
-## The Web: FullStack MVC
+## The Web: FullStack Basic
 
 Learned through [Wetube](https://github.com/YuruCoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube)  
 Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guidance!
@@ -24,6 +23,17 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 - [**kokoa-talk**](https://github.com/YuruCoder/kokoa-talk) - My first steps into coding
 - [**momentum**](https://github.com/YuruCoder/momentum)
 - [**wetube**](https://github.com/YuruCoder/wetube) - First fullstack application
+
+## ZOOM Clone: FullStack Realtime Service
+
+### Used Tech
+
+- Web version: WebSocket, Socket.IO, WebRTC
+- Windows version: WinUI(client), ASP.NET Core(server), SignalR
+
+### Repository
+
+- [**noom**](https://github.com/yurucoder/noom)
 
 ## Ramen Lab: Android Service Basic
 
@@ -59,17 +69,6 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 - [**PremixerUpdater**](https://github.com/YuruCoder/PremixerUpdater)
 - [**PremixerController**](https://github.com/YuruCoder/PremixerController)
-
-## ZOOM Clone: Realtime Service Basic
-
-### Used Tech
-
-- Web version: WebSocket, Socket.IO, WebRTC
-- Windows version: WinUI(client), ASP.NET Core(server), SignalR
-
-### Repository
-
-- [**noom**](https://github.com/yurucoder/noom)
 
 ## Kimchi Run: Game Service Basic
 
