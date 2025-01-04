@@ -12,6 +12,10 @@
 
 # 라이브러리 샘플
 
+## Java
+
+- [**simple-spring**](https://github.com/YuruCoder/simple-spring)
+
 ## JavaScript
 
 - [**graphql-api**](https://github.com/YuruCoder/graphql-api)
@@ -21,7 +25,3 @@
 
 - [**py-scrapper**](https://github.com/YuruCoder/py-scrapper)
 - [**corona-dashboard**](https://github.com/YuruCoder/corona-dashboard)
-
-## Java
-
-- [**simple-spring**](https://github.com/YuruCoder/simple-spring)
