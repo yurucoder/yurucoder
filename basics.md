@@ -1,7 +1,7 @@
 # 컴퓨터 사이언스
 
-- **MikanOS**
-- **Fish Book Deep Learning**
+- **ゼロからの OS 自作入門**
+- **Deep Learning from Scratch**
 
 # 대학 과제
 
