@@ -5,23 +5,23 @@
 
 # 대학 과제
 
-- [**java-programming**](https://github.com/YuruCoder/java-programming)
-- [**structured-c**](https://github.com/YuruCoder/structured-c)
-- [**data-structure**](https://github.com/YuruCoder/data-structure)
-- [**system-programming**](https://github.com/YuruCoder/system-programming)
+- [**java-programming**](https://github.com/yurucoder/java-programming)
+- [**structured-c**](https://github.com/yurucoder/structured-c)
+- [**data-structure**](https://github.com/yurucoder/data-structure)
+- [**system-programming**](https://github.com/yurucoder/system-programming)
 
 # 라이브러리 샘플
 
 ## Java
 
-- [**simple-spring**](https://github.com/YuruCoder/simple-spring)
+- [**simple-spring**](https://github.com/yurucoder/simple-spring)
 
 ## JavaScript
 
-- [**graphql-api**](https://github.com/YuruCoder/graphql-api)
-- [**apollo-movie**](https://github.com/YuruCoder/apollo-movie)
+- [**graphql-api**](https://github.com/yurucoder/graphql-api)
+- [**apollo-movie**](https://github.com/yurucoder/apollo-movie)
 
 ## Python
 
-- [**py-scrapper**](https://github.com/YuruCoder/py-scrapper)
-- [**corona-dashboard**](https://github.com/YuruCoder/corona-dashboard)
+- [**py-scrapper**](https://github.com/yurucoder/py-scrapper)
+- [**corona-dashboard**](https://github.com/yurucoder/corona-dashboard)
