@@ -5,21 +5,21 @@
 
 # 대학 과제
 
-- [**java-programming**](https://github.com/yurucoder/java-programming)
-- [**structured-c**](https://github.com/yurucoder/structured-c)
-- [**data-structure**](https://github.com/yurucoder/data-structure)
-- [**system-programming**](https://github.com/yurucoder/system-programming)
+- [**고급 프로그래밍**](https://github.com/yurucoder/java-programming)
+- [**객체지향 프로그래밍**](https://github.com/yurucoder/structured-c)
+- [**시스템 프로그래밍**](https://github.com/yurucoder/system-programming)
+- [**자료구조**](https://github.com/yurucoder/data-structure)
 
 # 라이브러리 샘플
 
 ## Java
 
-- [**simple-spring**](https://github.com/yurucoder/simple-spring)
+- [**Spring Boot**](https://github.com/yurucoder/simple-spring)
 
 ## JavaScript
 
-- [**graphql-api**](https://github.com/yurucoder/graphql-api)
-- [**apollo-movie**](https://github.com/yurucoder/apollo-movie)
+- [**Apollo React**](https://github.com/yurucoder/apollo-movie)
+- [**Apollo Server**](https://github.com/yurucoder/graphql-api)
 
 ## Python
 
