@@ -2,10 +2,10 @@
 
 - [x] Web Platform: JavaScript
 - [x] Android Platform: Kotlin
-- [ ] Apple Platform: SwiftUI
+- [ ] Apple Platform: Swift
 - [ ] Windows Platform: C#/.NET
 - [x] Embedded Platform: C++/Arduino
-- [ ] Game Platform: Unity and Unreal Engine
+- [ ] Game Platform: Unity
 
 ## The Web: FullStack Basic
 
@@ -24,7 +24,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 - [**momentum**](https://github.com/yurucoder/momentum)
 - [**wetube**](https://github.com/yurucoder/wetube) - First fullstack application
 
-## ZOOM Clone: FullStack Realtime Service
+## ZOOM Clone: FullStack in Realtime
 
 ### Used Tech
 
@@ -35,7 +35,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 - [**noom**](https://github.com/yurucoder/noom)
 
-## Ramen Lab: Android Service Basic
+## Ramen Lab: Android Basic
 
 ### Used Tech
 
@@ -46,7 +46,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 - [**ramen-lab**](https://github.com/yurucoder/ramen-lab)
 
-## Tastevin: Android Service with AI
+## Tastevin: Android with AI
 
 ### Used Tech
 
@@ -58,7 +58,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 - [**tastevin**](https://github.com/yurucoder/tastevin)
 - [**fast-server**](https://github.com/yurucoder/fast-server)
 
-## Premixer: Android Service with Hardware
+## Premixer: Android with Hardware
 
 ### Used Tech
 
@@ -70,7 +70,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 - [**PremixerUpdater**](https://github.com/yurucoder/PremixerUpdater)
 - [**PremixerController**](https://github.com/yurucoder/PremixerController)
 
-## Kimchi Run: Game Service Basic
+## Kimchi Run: Unity Basic
 
 ### Used Tech
 
