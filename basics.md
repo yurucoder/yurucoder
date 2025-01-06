@@ -1,4 +1,4 @@
-# 컴퓨터 사이언스
+# 이론과 구현
 
 - **ゼロからの OS 自作入門**
 - **Deep Learning from Scratch**
