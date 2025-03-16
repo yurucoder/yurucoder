@@ -29,7 +29,6 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 ### Used Tech
 
 - Web version: WebSocket, Socket.IO, WebRTC
-- Windows version: WinUI(client), ASP.NET Core(server), SignalR
 
 ### Repository
 
