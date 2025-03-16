@@ -5,7 +5,7 @@
 - [ ] Apple Platform: Swift
 - [ ] Windows Platform: C#/.NET
 - [x] Embedded Platform: C++/Arduino
-- [x] Game Platform: Unity
+- [x] Game Platform: Unity/Unreal
 
 ## The Web: FullStack Basic
 
@@ -23,16 +23,6 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 - [**kokoa-talk**](https://github.com/yurucoder/kokoa-talk) - My first steps into coding
 - [**momentum**](https://github.com/yurucoder/momentum)
 - [**wetube**](https://github.com/yurucoder/wetube) - First fullstack application
-
-## ZOOM Clone: FullStack in Realtime
-
-### Used Tech
-
-- Web version: WebSocket, Socket.IO, WebRTC
-
-### Repository
-
-- [**noom**](https://github.com/yurucoder/noom)
 
 ## Ramen Lab: Android Basic
 
