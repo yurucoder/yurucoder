@@ -1,7 +1,7 @@
 # 이론과 구현
 
-- **ゼロからの OS 自作入門**
-- [**Deep Learning from Scratch**](https://github.com/yurucoder/FishDL)
+- **0부터 시작하는 OS 자작 입문**
+- [**밑바닥부터 시작하는 딥러닝**](https://github.com/yurucoder/FishDL)
 
 # 대학 과제
 
