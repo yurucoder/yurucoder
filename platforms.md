@@ -5,7 +5,7 @@
 - [ ] Apple Platform: Swift
 - [ ] Windows Platform: C#/.NET
 - [x] Embedded Platform: C++/Arduino
-- [ ] Game Platform: Unity
+- [x] Game Platform: Unity
 
 ## The Web: FullStack Basic
 
@@ -74,7 +74,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ### Used Tech
 
-- Unity: Unity Editor, C# with Rider
+- Unity: Unity Editor, C#
 
 ### Repository
 
