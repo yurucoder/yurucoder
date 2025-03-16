@@ -20,8 +20,9 @@
 
 - [**Apollo React**](https://github.com/yurucoder/apollo-movie)
 - [**Apollo Server**](https://github.com/yurucoder/graphql-api)
+- [**Websockets**](https://github.com/yurucoder/noom)
 
 ## Python
 
-- [**py-scrapper**](https://github.com/yurucoder/py-scrapper)
-- [**corona-dashboard**](https://github.com/yurucoder/corona-dashboard)
+- [**Web Scrapper**](https://github.com/yurucoder/py-scrapper)
+- [**Data Plotting**](https://github.com/yurucoder/corona-dashboard)
