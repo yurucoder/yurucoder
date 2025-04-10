@@ -20,9 +20,9 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | Backend  | Node.js, Express      |
 | Database | MongoDB               |
 
-[**kokoa-talk**](https://github.com/yurucoder/kokoa-talk) - My first steps into coding  
-[**momentum**](https://github.com/yurucoder/momentum)  
-[**wetube**](https://github.com/yurucoder/wetube) - First fullstack application
+[**kokoa-talk**](https://github.com/yurucoder/kokoa-talk): 나의 첫 코딩 프로젝트  
+[**momentum**](https://github.com/yurucoder/momentum): 나의 첫 프로그래밍 프로젝트  
+[**wetube**](https://github.com/yurucoder/wetube): 나의 첫 풀스택 프로젝트
 
 ## 라멘 랩: 안드로이드 기초
 
@@ -31,7 +31,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | Android | Retrofit, Glide, Room, Coroutine and More... |
 | Backend | Spring Boot with Kotlin, MySQL               |
 
-[**ramen-lab**](https://github.com/yurucoder/ramen-lab)
+[**ramen-lab**](https://github.com/yurucoder/ramen-lab): 라멘 랩 안드로이드 앱
 
 ## 테이스트빈: 안드로이드와 머신러닝
 
@@ -40,8 +40,8 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | Android | CameraX, ML Kit                             |
 | Backend | FastAPI with Python, OpenAI API, PostgreSQL |
 
-[**tastevin**](https://github.com/yurucoder/tastevin)  
-[**fast-server**](https://github.com/yurucoder/fast-server)
+[**tastevin**](https://github.com/yurucoder/tastevin): 테이스트빈 안드로이드 앱  
+[**fast-server**](https://github.com/yurucoder/fast-server): 테이스트빈 파이썬 서버
 
 ## 먼저섞은: 안드로이드와 임베디드 시스템
 
@@ -50,8 +50,8 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | Android | Compose, Bluetooth                               |
 | Backend | ArduinoBlue, LiquidCrystal I2C, Other Modules... |
 
-[**PremixerUpdater**](https://github.com/yurucoder/PremixerUpdater)  
-[**PremixerController**](https://github.com/yurucoder/PremixerController)
+[**PremixerUpdater**](https://github.com/yurucoder/PremixerUpdater): 먼저섞은 안드로이드 앱  
+[**PremixerController**](https://github.com/yurucoder/PremixerController): 먼저섞은 아두이노 소스
 
 ## 김치런: 유니티 기초
 
@@ -59,4 +59,4 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | ----- | ---------------- |
 | Unity | Unity Editor, C# |
 
-[**KimchiRun**](https://github.com/yurucoder/KimchiRun)
+[**KimchiRun**](https://github.com/yurucoder/KimchiRun): 김치런 유니티 프로젝트
