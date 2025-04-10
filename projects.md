@@ -1,13 +1,13 @@
 # 프로젝트
 
-| 플랫폼   | 기술                  | 진행 |
-| -------- | --------------------- | :--: |
-| Web      | HTML, CSS, JavaScript |  ✅  |
-| Android  | Kotlin, Jetpack       |  ✅  |
-| Apple    | Swift                 |      |
-| Windows  | C#, .NET,             |      |
-| Embedded | C, C++                |  ✅  |
-| Gaming   | Unity, Unreal         |  ✅  |
+| 플랫폼   | 기술                  | 진행   |
+| -------- | --------------------- | ------ |
+| Web      | HTML, CSS, JavaScript | Normal |
+| Android  | Kotlin, Jetpack       | Basic  |
+| Apple    | Swift                 |        |
+| Windows  | C#, .NET,             |        |
+| Embedded | C, C++                | Basic  |
+| Gaming   | Unity, Unreal         | Basic  |
 
 ## 노마드코더 웹 시리즈: 풀스택 기초
 
