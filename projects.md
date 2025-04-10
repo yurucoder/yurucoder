@@ -50,7 +50,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | Android | Compose, Bluetooth                               |
 | Backend | ArduinoBlue, LiquidCrystal I2C, Other Modules... |
 
-[**PremixerUpdater**](https://github.com/yurucoder/PremixerUpdater)
+[**PremixerUpdater**](https://github.com/yurucoder/PremixerUpdater)  
 [**PremixerController**](https://github.com/yurucoder/PremixerController)
 
 ## 김치런: 유니티 기초
