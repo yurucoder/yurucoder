@@ -1,7 +1,7 @@
 # 이론과 구현
 
-- **0부터 시작하는 OS 자작 입문**
 - [**밑바닥부터 시작하는 딥러닝**](https://github.com/yurucoder/FishDL)
+- **0부터 시작하는 OS 자작 입문**
 
 # 대학 과제
 
@@ -24,5 +24,5 @@
 
 ## Python
 
-- [**웹스크래퍼**](https://github.com/yurucoder/py-scrapper)
+- [**웹 스크래퍼**](https://github.com/yurucoder/py-scrapper)
 - [**데이터 플로팅**](https://github.com/yurucoder/corona-dashboard)
