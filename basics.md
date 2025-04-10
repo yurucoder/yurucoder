@@ -14,15 +14,15 @@
 
 ## Java
 
-- [**Spring Boot**](https://github.com/yurucoder/simple-spring)
+- [**스프링 부트**](https://github.com/yurucoder/simple-spring)
 
 ## JavaScript
 
-- [**Apollo React**](https://github.com/yurucoder/apollo-movie)
-- [**Apollo Server**](https://github.com/yurucoder/graphql-api)
-- [**Websockets**](https://github.com/yurucoder/noom)
+- [**웹소켓**](https://github.com/yurucoder/noom)
+- [**아폴로 리액트**](https://github.com/yurucoder/apollo-movie)
+- [**아폴로 서버**](https://github.com/yurucoder/graphql-api)
 
 ## Python
 
-- [**Web Scrapper**](https://github.com/yurucoder/py-scrapper)
-- [**Data Plotting**](https://github.com/yurucoder/corona-dashboard)
+- [**웹스크래퍼**](https://github.com/yurucoder/py-scrapper)
+- [**데이터 플로팅**](https://github.com/yurucoder/corona-dashboard)
