@@ -1,70 +1,62 @@
-# 플랫폼 기반 로드맵
+# 프로젝트
 
-- [x] Web Platform: JavaScript
-- [x] Android Platform: Kotlin
-- [ ] Apple Platform: Swift
-- [ ] Windows Platform: C#/.NET
-- [x] Embedded Platform: C++/Arduino
-- [x] Game Platform: Unity/Unreal
+| 플랫폼   | 기술                  | 진행 |
+| -------- | --------------------- | :--: |
+| Web      | HTML, CSS, JavaScript |  ✅  |
+| Android  | Kotlin, Jetpack       |  ✅  |
+| Apple    | Swift                 |      |
+| Windows  | C#, .NET,             |      |
+| Embedded | C, C++                |  ✅  |
+| Gaming   | Unity, Unreal         |  ✅  |
 
-## The Web: FullStack Basic
+## 노마드코더 웹 시리즈: 풀스택 기초
 
 Learned through [Wetube](https://github.com/yurucoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube)  
 Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guidance!
 
-### Used Tech
+| 분야     | 기술                  |
+| -------- | --------------------- |
+| Frontend | JavaScript, Pug, Sass |
+| Backend  | Node.js, Express      |
+| Database | MongoDB               |
 
-- Frontend: JavaScript, Pug, Sass
-- Backend: Node.js, Express
-- Database: MongoDB
+[**kokoa-talk**](https://github.com/yurucoder/kokoa-talk) - My first steps into coding  
+[**momentum**](https://github.com/yurucoder/momentum)  
+[**wetube**](https://github.com/yurucoder/wetube) - First fullstack application
 
-### Repository
+## 라멘 랩: 안드로이드 기초
 
-- [**kokoa-talk**](https://github.com/yurucoder/kokoa-talk) - My first steps into coding
-- [**momentum**](https://github.com/yurucoder/momentum)
-- [**wetube**](https://github.com/yurucoder/wetube) - First fullstack application
+| 분야    | 기술                                         |
+| ------- | -------------------------------------------- |
+| Android | Retrofit, Glide, Room, Coroutine and More... |
+| Backend | Spring Boot with Kotlin, MySQL               |
 
-## Ramen Lab: Android Basic
+[**ramen-lab**](https://github.com/yurucoder/ramen-lab)
 
-### Used Tech
+## 테이스트빈: 안드로이드와 머신러닝
 
-- Android: Retrofit, Glide, Room, Coroutine and More...
-- Backend: Spring Boot with Kotlin, MySQL
+| 분야    | 기술                                        |
+| ------- | ------------------------------------------- |
+| Android | CameraX, ML Kit                             |
+| Backend | FastAPI with Python, OpenAI API, PostgreSQL |
 
-### Repository
+[**tastevin**](https://github.com/yurucoder/tastevin)  
+[**fast-server**](https://github.com/yurucoder/fast-server)
 
-- [**ramen-lab**](https://github.com/yurucoder/ramen-lab)
+## 먼저섞은: 안드로이드와 임베디드 시스템
 
-## Tastevin: Android with AI
+| 분야    | 기술                                             |
+| ------- | ------------------------------------------------ |
+| Android | Compose, Bluetooth                               |
+| Backend | ArduinoBlue, LiquidCrystal I2C, Other Modules... |
 
-### Used Tech
+[**PremixerUpdater**](https://github.com/yurucoder/PremixerUpdater)
+[**PremixerController**](https://github.com/yurucoder/PremixerController)
 
-- Android: CameraX, ML Kit
-- Backend: FastAPI with Python, OpenAI API, PostgreSQL
+## 김치런: 유니티 기초
 
-### Repository
+| 분야  | 기술             |
+| ----- | ---------------- |
+| Unity | Unity Editor, C# |
 
-- [**tastevin**](https://github.com/yurucoder/tastevin)
-- [**fast-server**](https://github.com/yurucoder/fast-server)
-
-## Premixer: Android with Hardware
-
-### Used Tech
-
-- Android: Compose, Bluetooth
-- Arduino: ArduinoBlue, LiquidCrystal I2C, Other Modules...
-
-### Repository
-
-- [**PremixerUpdater**](https://github.com/yurucoder/PremixerUpdater)
-- [**PremixerController**](https://github.com/yurucoder/PremixerController)
-
-## Kimchi Run: Unity Basic
-
-### Used Tech
-
-- Unity: Unity Editor, C#
-
-### Repository
-
-- [**KimchiRun**](https://github.com/yurucoder/KimchiRun)
+[**KimchiRun**](https://github.com/yurucoder/KimchiRun)
