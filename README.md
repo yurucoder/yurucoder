@@ -1,4 +1,4 @@
 # Hello, Sekai!
 
 - [**Basics**](basics.md)
-- [**Platforms**](platforms.md)
+- [**Platforms**](projects.md)
