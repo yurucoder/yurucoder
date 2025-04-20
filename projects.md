@@ -1,6 +1,6 @@
 # 프로젝트
 
-| 플랫폼   | 기술                  | 진행   | 도구           |
+| 플랫폼   | 기술                  | 수준   | 도구           |
 | -------- | --------------------- | ------ | -------------- |
 | Web      | HTML, CSS, JavaScript | Normal | VSCode         |
 | Android  | Kotlin, Jetpack       | Basic  | Android Studio |
@@ -18,7 +18,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | -------- | --------------------- |
 | Frontend | JavaScript, Pug, Sass |
 | Backend  | Node.js, Express      |
-| Database | MongoDB               |
+| Database | MongoDB, mongoose     |
 
 [**kokoa-talk**](https://github.com/yurucoder/kokoa-talk): 나의 첫 코딩 프로젝트  
 [**momentum**](https://github.com/yurucoder/momentum): 나의 첫 프로그래밍 프로젝트  
@@ -26,19 +26,21 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ## 라멘 랩: 안드로이드 기초
 
-| 분야    | 기술                                         |
-| ------- | -------------------------------------------- |
-| Android | Retrofit, Glide, Room, Coroutine and More... |
-| Backend | Spring Boot with Kotlin, MySQL               |
+| 분야     | 기술                                         |
+| -------- | -------------------------------------------- |
+| Android  | Retrofit, Glide, Room, Coroutine and More... |
+| Backend  | Spring Boot with Kotlin                      |
+| Database | MySQL, JPA                                   |
 
 [**ramen-lab**](https://github.com/yurucoder/ramen-lab): 라멘 랩 안드로이드 앱
 
 ## 테이스트빈: 안드로이드와 머신러닝
 
-| 분야    | 기술                                        |
-| ------- | ------------------------------------------- |
-| Android | CameraX, ML Kit                             |
-| Backend | FastAPI with Python, OpenAI API, PostgreSQL |
+| 분야     | 기술                            |
+| -------- | ------------------------------- |
+| Android  | CameraX, ML Kit                 |
+| Backend  | FastAPI with Python, OpenAI API |
+| Database | PostgreSQL, SQLAlchemy          |
 
 [**tastevin**](https://github.com/yurucoder/tastevin): 테이스트빈 안드로이드 앱  
 [**fast-server**](https://github.com/yurucoder/fast-server): 테이스트빈 파이썬 서버
