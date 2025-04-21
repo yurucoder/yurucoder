@@ -4,10 +4,10 @@
 | -------- | --------------------- | ------ | -------------- |
 | Web      | HTML, CSS, JavaScript | Normal | VSCode         |
 | Android  | Kotlin, Jetpack       | Basic  | Android Studio |
-| Apple    | Swift                 |        | XCode          |
-| Windows  | C#, .NET,             |        | Visual Studio  |
+| Apple    | Swift, UIKit          |        | XCode          |
+| Windows  | C#, WinUI             |        | Visual Studio  |
 | Embedded | C, C++                | Basic  | Arduino IDE    |
-| Gaming   | Unity, Unreal         | Basic  | Unity Editor   |
+| Gaming   | Unity, RPG Maker      | Basic  | Unity Editor   |
 
 ## 노마드코더 웹 시리즈: 풀스택 기초
 
