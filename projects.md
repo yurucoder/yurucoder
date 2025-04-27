@@ -1,13 +1,13 @@
 # 프로젝트
 
-| 플랫폼   | 기술                  | 수준   | 도구           |
-| -------- | --------------------- | ------ | -------------- |
-| Web      | HTML, CSS, JavaScript | Normal | VSCode         |
-| Android  | Kotlin, Jetpack       | Basic  | Android Studio |
-| Apple    | Swift, UIKit          |        | XCode          |
-| Windows  | C#, WinUI             |        | Visual Studio  |
-| Embedded | C, C++                | Basic  | Arduino IDE    |
-| Gaming   | Unity, RPG Maker      | Basic  | Unity Editor   |
+| 플랫폼   | 기술          | 도구           | 이익                            |
+| -------- | ------------- | -------------- | ------------------------------- |
+| Web      | HTML, CSS, JS | VSCode         | 높은 생산성과 안정적인 확장     |
+| Android  | Kotlin        | Android Studio | Google의 다양한 라이브러리 활용 |
+| Apple    | Swift         | XCode          | Apple의 강력한 디바이스 활용    |
+| Windows  | C#            | Visual Studio  | 압도적인 데스크톱 점유율        |
+| Embedded | C, C++        | Arduino IDE    | 하드웨어와의 저수준 소통        |
+| Gaming   | Unity         | Unity Editor   | 고성능의 그래픽 활용            |
 
 ## 노마드코더 웹 시리즈: 풀스택 기초
 
