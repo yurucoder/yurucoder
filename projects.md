@@ -47,18 +47,18 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ## 먼저섞은: 리액트 네이티브와 임베디드 시스템
 
-| 분야    | 기술                                             |
-| ------- | ------------------------------------------------ |
-| Client  | React Native                                     |
-| Arduino | ArduinoBlue, LiquidCrystal I2C, Other Modules... |
+| 분야    | 기술         |
+| ------- | ------------ |
+| Client  | React Native |
+| Arduino |              |
 
 [**premixed-app**](https://github.com/yurucoder/premixed-app): 먼저섞은 앱  
 [**premixed-ino**](https://github.com/yurucoder/premixed-ino): 먼저섞은 아두이노 소스
 
 ## 김치런: 유니티 기초
 
-| 분야  | 기술             |
-| ----- | ---------------- |
-| Unity | Unity Editor, C# |
+| 분야  | 기술         |
+| ----- | ------------ |
+| Unity | Unity Editor |
 
 [**KimchiRun**](https://github.com/yurucoder/KimchiRun): 김치런 유니티 프로젝트
