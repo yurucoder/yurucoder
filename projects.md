@@ -36,11 +36,11 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ## 테이스트빈: 안드로이드와 머신러닝
 
-| 분야     | 기술                            |
-| -------- | ------------------------------- |
-| Android  | CameraX, ML Kit                 |
-| Backend  | FastAPI with Python, OpenAI API |
-| Database | PostgreSQL, SQLAlchemy          |
+| 분야     | 기술                   |
+| -------- | ---------------------- |
+| Android  | CameraX, ML Kit        |
+| Backend  | FastAPI, OpenAI API    |
+| Database | PostgreSQL, SQLAlchemy |
 
 [**tastevin**](https://github.com/yurucoder/tastevin): 테이스트빈 안드로이드 앱  
 [**fast-server**](https://github.com/yurucoder/fast-server): 테이스트빈 파이썬 서버
