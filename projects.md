@@ -38,10 +38,10 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ## 먼저섞은: 리액트 네이티브와 임베디드 시스템
 
-| 분야    | 기술         |
-| ------- | ------------ |
-| Client  | React Native |
-| Arduino |              |
+| 분야    | 기술                    |
+| ------- | ----------------------- |
+| Client  | React Native for Mobile |
+| Arduino |                         |
 
 [**premixed-app**](https://github.com/yurucoder/premixed-app): 먼저섞은 앱  
 [**premixed-ino**](https://github.com/yurucoder/premixed-ino): 먼저섞은 아두이노 소스
