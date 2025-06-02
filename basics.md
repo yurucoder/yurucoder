@@ -29,11 +29,11 @@
 
 # 플랫폼별 기술 노트
 
-| 플랫폼            | 기술          | 도구           | 프레임워크            | 이익                            |
-| ----------------- | ------------- | -------------- | --------------------- | ------------------------------- |
-| Web               | HTML, CSS, JS | VSCode         | React, Vue, etcs      | 높은 생산성과 안정적인 확장     |
-| Android           | Kotlin        | Android Studio | React Native          | Google의 다양한 라이브러리 활용 |
-| Apple(iOS, macOS) | Swift         | XCode          | React Native          | Apple의 강력한 디바이스 활용    |
-| Windows           | C#            | Visual Studio  | React Native          | 고성능 데스크톱 확장성          |
-| Embedded(Linux)   | C, C++        | Variable Tools | Arduino, Raspberry Pi | 하드웨어와 저수준 소통          |
-| Gaming            | Game Engine   | Variable Tools | Unity, Unreal Engine  | 자유로운 그래픽 활용            |
+| 플랫폼            | 기술(네이티브) | 도구           | 프레임워크            | 이익                            |
+| ----------------- | -------------- | -------------- | --------------------- | ------------------------------- |
+| Web               | HTML, CSS, JS  | VSCode         | React/NextJS          | 높은 생산성과 안정적인 확장     |
+| Android           | Kotlin         | Android Studio | React Native          | Google의 다양한 라이브러리 활용 |
+| Apple(iOS, macOS) | Swift          | XCode          | React Native          | Apple의 강력한 디바이스 활용    |
+| Windows           | C# (.NET)      | Visual Studio  | React Native          | 고성능 데스크톱 확장성          |
+| Embedded(Linux)   | C, C++         | Variable Tools | Arduino, Raspberry Pi | 하드웨어와 저수준 소통          |
+| Gaming            | Game Engine    | Variable Tools | Unity, Unreal Engine  | 자유로운 그래픽 활용            |
