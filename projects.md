@@ -1,3 +1,12 @@
+# 기술 노트
+
+| 플랫폼 (네이티브) | 기술          | 도구           | 이익                            |
+| ----------------- | ------------- | -------------- | ------------------------------- |
+| Web               | HTML, CSS, JS | VSCode         | 높은 생산성과 안정적인 확장     |
+| Android           | Kotlin        | Android Studio | Google의 다양한 라이브러리 활용 |
+| Apple(iOS, macOS) | Swift         | XCode          | Apple의 강력한 디바이스 활용    |
+| Windows           | C# (.NET)     | Visual Studio  | 고성능 데스크톱 확장성          |
+
 # 프로젝트
 
 ## 노마드코더 웹 시리즈: 풀스택 기초
