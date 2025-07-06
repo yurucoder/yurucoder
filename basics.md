@@ -1,11 +1,11 @@
 # 기술 노트
 
-| 플랫폼 (CS)  | 기술              |
-| ------------ | ----------------- |
-| System       | Linux             |
-| Server       | Network, Database |
-| Graphics     | Game Engine       |
-| Data Science | Deep Learning     |
+| 플랫폼 (CS)  | 기술                         |
+| ------------ | ---------------------------- |
+| System       | C/C++, System Call           |
+| Data Science | Python, Numpy, Deep Learning |
+| Server       | Linux, Network, Database     |
+| Graphics     | Game Engine, Graphics API    |
 
 # 이론과 구현
 
