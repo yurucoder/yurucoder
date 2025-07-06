@@ -54,11 +54,3 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 [**premixed-app**](https://github.com/yurucoder/premixed-app): 먼저섞은 앱  
 [**premixed-ino**](https://github.com/yurucoder/premixed-ino): 먼저섞은 아두이노 소스
-
-## 김치런: 유니티 기초
-
-| 분야  | 기술         |
-| ----- | ------------ |
-| Unity | Unity Editor |
-
-[**KimchiRun**](https://github.com/yurucoder/KimchiRun): 김치런 유니티 프로젝트
