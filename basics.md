@@ -10,7 +10,7 @@
 # 이론과 구현
 
 - [**밑바닥부터 시작하는 딥러닝**](https://github.com/yurucoder/dezero)
-- [**0부터 시작하는 OS 자작 입문**](https://github.com/yurucoder/oszero)
+- **0부터 시작하는 OS 자작 입문**
 
 # 대학 과제
 
