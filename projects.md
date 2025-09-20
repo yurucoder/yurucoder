@@ -3,8 +3,8 @@
 | 플랫폼 (네이티브) | 기술          | 이익                            |
 | ----------------- | ------------- | ------------------------------- |
 | Web               | HTML, CSS, JS | 높은 생산성과 안정적인 확장     |
-| Android           | Kotlin        | Google의 다양한 라이브러리 활용 |
-| Apple(iOS, macOS) | Swift         | Apple의 강력한 디바이스 활용    |
+| Android           | Kotlin        | Google의 강력한 라이브러리 활용 |
+| Apple(iOS, macOS) | Swift         | Apple의 최적화된 디바이스 활용  |
 | Windows           | C# (.NET)     | 고성능 데스크톱 확장성          |
 
 # 프로젝트
@@ -47,10 +47,10 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ## 먼저섞은: 리액트 네이티브와 임베디드 시스템
 
-| 분야    | 기술                    |
-| ------- | ----------------------- |
-| Client  | React Native for Mobile |
-| Arduino |                         |
+| 분야    | 기술         |
+| ------- | ------------ |
+| Mobile  | React Native |
+| Arduino |              |
 
 [**premixed-app**](https://github.com/yurucoder/premixed-app): 먼저섞은 앱  
 [**premixed-ino**](https://github.com/yurucoder/premixed-ino): 먼저섞은 아두이노 소스
