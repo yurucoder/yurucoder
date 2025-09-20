@@ -7,7 +7,7 @@
 | Server       | Linux, Network, Database  |
 | Graphics     | Game Engine, Graphics API |
 
-# 자료
+# 기초 자료
 
 ## 대학 과제
 
