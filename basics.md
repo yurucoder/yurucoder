@@ -38,7 +38,7 @@
 - [**웹 스크래퍼**](https://github.com/yurucoder/py-scrapper)
 - [**데이터 플로팅**](https://github.com/yurucoder/corona-dashboard)
 
-### Unity
+### Game Engine
 
 - [**유니티2D 게임**](https://github.com/yurucoder/KimchiRun)
 - [**SDL 물리학 데모**](https://github.com/yurucoder/physics-demo)
