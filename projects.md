@@ -44,5 +44,5 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | Mobile  | React Native    |
 | Arduino | Arduino Modules |
 
-[**premixed-app**](https://github.com/yurucoder/premixed-app): 먼저섞은 앱  
+[**premixed-app**](https://github.com/yurucoder/premixed-app): 먼저섞은 리액트 네이티브 앱  
 [**premixed-ino**](https://github.com/yurucoder/premixed-ino): 먼저섞은 아두이노
