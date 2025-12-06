@@ -23,7 +23,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | Backend  | Spring Boot with Kotlin                      |
 | Database | MySQL, JPA                                   |
 
-[**ramen-lab**](https://github.com/yurucoder/ramen-lab): 라멘 랩 안드로이드 앱
+[**ramen-lab**](https://github.com/yurucoder/ramen-lab): 라멘 랩 안드로이드 앱  
 **ramen-server**: 라멘 랩 스프링 서버
 
 ## 테이스트빈: 안드로이드와 머신러닝
