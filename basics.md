@@ -1,12 +1,3 @@
-# 기술 노트
-
-| 플랫폼 (CS)  | 기술                      |
-| ------------ | ------------------------- |
-| System       | C/C++, System Call        |
-| Data Science | Python, Numpy, Matplotlib |
-| Server       | Linux, Network, Database  |
-| Graphics     | Game Engine, Graphics API |
-
 # 기초 자료
 
 ## 대학 과제
