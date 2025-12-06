@@ -24,6 +24,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | Database | MySQL, JPA                                   |
 
 [**ramen-lab**](https://github.com/yurucoder/ramen-lab): 라멘 랩 안드로이드 앱
+**ramen-server**: 라멘 랩 스프링 서버
 
 ## 테이스트빈: 안드로이드와 머신러닝
 
@@ -38,10 +39,10 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 ## 먼저섞은: 리액트 네이티브와 임베디드 시스템
 
-| 분야    | 기술         |
-| ------- | ------------ |
-| Mobile  | React Native |
-| Arduino |              |
+| 분야    | 기술            |
+| ------- | --------------- |
+| Mobile  | React Native    |
+| Arduino | Arduino Modules |
 
 [**premixed-app**](https://github.com/yurucoder/premixed-app): 먼저섞은 앱  
-[**premixed-ino**](https://github.com/yurucoder/premixed-ino): 먼저섞은 아두이노 소스
+[**premixed-ino**](https://github.com/yurucoder/premixed-ino): 먼저섞은 아두이노
