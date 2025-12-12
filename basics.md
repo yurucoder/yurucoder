@@ -10,7 +10,7 @@
 ## 서적 구현
 
 - [**밑바닥부터 시작하는 딥러닝**](https://github.com/yurucoder/fishdl)
-- **0부터 시작하는 OS 자작 입문**
+- [**0부터 시작하는 OS 자작 입문**](https://github.com/yurucoder/naranja)
 
 ## 기술 튜토리얼
 
